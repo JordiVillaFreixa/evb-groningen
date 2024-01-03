@@ -11,7 +11,7 @@ sed -i s/987654321/$rs/ relax_001.inp
 for step in ${steps[@]}
 do
   echo "Running equilibration step ${step}"
-  if mpirun -np 6 Qdyn6p ${step}.inp > ${step}.log
+  if mpirun -np 6 Qdyn6 ${step}.inp > ${step}.log
   then
     echo -e "$OK"
   else 

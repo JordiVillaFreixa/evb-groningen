@@ -1,0 +1,28 @@
+# Generated with QTools, version 0.7.0
+# Date: Wed Jan  3 18:33:27 2024
+# CWD: /home/jordivilla/GitHub/Treball/evb-groningen/02-relax
+# Cmdline: /home/jordivilla/GitHub/others/qtools/qscripts-cli/q_genrelax.py ./genrelax.proc --top ../01-preparation/RRDiol/RRDiol.top --pdb ../01-preparation/RRDiol/RRDiol.pdb --fep ../01-preparation/fep/RRD_Diol.fep --rs ./run_relax_q.sh --outdir relax_006
+[md]
+steps                                           200
+temperature                                      10
+stepsize                                          1
+bath_coupling                                   100
+lrf                                              on
+
+[cut-offs]
+q_atom                                           99
+
+[intervals]
+non_bond                                         30
+output                                          100
+trajectory                                      100
+
+[files]
+topology                                 RRDiol.top
+restart                                relax_001.re
+final                                  relax_002.re
+trajectory                            relax_002.dcd
+fep                                    RRD_Diol.fep
+
+[lambdas]
+0.90  0.10

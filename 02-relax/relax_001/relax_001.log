@@ -1,41 +1,335 @@
 
+
 Build and version information
 
 Build number 6.0.11
-Build date   20231011
+Build date   20231121
 Built:       
-      by     p315462
-      on     login1
-      git id adc28a635c78993922188615a73366ace3402081
-      with   GNU Fortran GCC 11.3.0
-Qdyn version 6.0.11 , git id=adc28a635c78993922188615a73366ace3402081 initialising
-Current date 2023-12-20 and time 15:23:30
+      by     jordivilla
+      on     P-0515
+      git id d993af2a20623fcf9dc867341fb6902d395c0ec9
+      with   GNU Fortran Ubuntu 12.3.0-1ubuntu1~23.04 12.3.0
+Qdyn version 6.0.11 , git id=d993af2a20623fcf9dc867341fb6902d395c0ec9 initialising
 
-Welcome in qdyn modification date 20231011
+Build and version information
+
+Build number 6.0.11
+Build date   20231121
+Built:       
+      by     jordivilla
+      on     P-0515
+      git id d993af2a20623fcf9dc867341fb6902d395c0ec9
+      with   GNU Fortran Ubuntu 12.3.0-1ubuntu1~23.04 12.3.0
+Qdyn version 6.0.11 , git id=d993af2a20623fcf9dc867341fb6902d395c0ec9 initialising
+
+Build and version information
+
+Build number 6.0.11
+Build date   20231121
+Built:       
+      by     jordivilla
+      on     P-0515
+      git id d993af2a20623fcf9dc867341fb6902d395c0ec9
+      with   GNU Fortran Ubuntu 12.3.0-1ubuntu1~23.04 12.3.0
+Qdyn version 6.0.11 , git id=d993af2a20623fcf9dc867341fb6902d395c0ec9 initialising
+Current date 2024- 1- 3 and time 18:42:58
+
+Welcome in qdyn modification date 20231121
 
  Q6, Copyright © 2017 Johan Åqvist, John Marelius, Shina Caroline Lynn Kamerlin and Paul Bauer
  Q6 comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome
  to redistribute it under certain conditions. For details, add the --help flag.
+Current date 2024- 1- 3 and time 18:42:58
+Build and version information
+
+----------------------- Reading input from relax_001.inp ----------------------
+Current date 2024- 1- 3 and time 18:42:58
+
+Welcome in qdyn modification date 20231121
+
+ Q6, Copyright © 2017 Johan Åqvist, John Marelius, Shina Caroline Lynn Kamerlin and Paul Bauer
+ Q6 comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome
+Build number 6.0.11
+Build date   20231121
+Built:       
+      by     jordivilla
+      on     P-0515
+      git id d993af2a20623fcf9dc867341fb6902d395c0ec9
+      with   GNU Fortran Ubuntu 12.3.0-1ubuntu1~23.04 12.3.0
+ to redistribute it under certain conditions. For details, add the --help flag.
+Qdyn version 6.0.11 , git id=d993af2a20623fcf9dc867341fb6902d395c0ec9 initialising
+----------------------- Reading input from relax_001.inp ----------------------
+
+Welcome in qdyn modification date 20231121
+
+Current date 2024- 1- 3 and time 18:42:58
+
+Welcome in qdyn modification date 20231121
+
+ Q6, Copyright © 2017 Johan Åqvist, John Marelius, Shina Caroline Lynn Kamerlin and Paul Bauer
+ Q6 comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome
+ to redistribute it under certain conditions. For details, add the --help flag.
+Build and version information
+
+Build number 6.0.11
+Build date   20231121
+Built:       
+      by     jordivilla
+      on     P-0515
+      git id d993af2a20623fcf9dc867341fb6902d395c0ec9
+----------------------- Reading input from relax_001.inp ----------------------
+      with   GNU Fortran Ubuntu 12.3.0-1ubuntu1~23.04 12.3.0
+Qdyn version 6.0.11 , git id=d993af2a20623fcf9dc867341fb6902d395c0ec9 initialising
+
+ Q6, Copyright © 2017 Johan Åqvist, John Marelius, Shina Caroline Lynn Kamerlin and Paul Bauer
+Number of MD steps =       200  Stepsize (fs)    =     1.000
+ Q6 comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome
+ Not being verbose in temperature print out
+Current date 2024- 1- 3 and time 18:42:58
+
+Welcome in qdyn modification date 20231121
+
+ Q6, Copyright © 2017 Johan Åqvist, John Marelius, Shina Caroline Lynn Kamerlin and Paul Bauer
+ Q6 comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome
+ to redistribute it under certain conditions. For details, add the --help flag.
+ to redistribute it under certain conditions. For details, add the --help flag.
+Target temperature =      0.10  T-relax time     =      1.00
 ----------------------- Reading input from relax_001.inp ----------------------
 Number of MD steps =       200  Stepsize (fs)    =     1.000
+Number of MD steps =       200  Stepsize (fs)    =     1.000
+ Not being verbose in temperature print out
+----------------------- Reading input from relax_001.inp ----------------------
  Not being verbose in temperature print out
 Target temperature =      0.10  T-relax time     =      1.00
+Target temperature =      0.10  T-relax time     =      1.00
  No thermostat chosen. Berendsen thermostat will be used.
+ No thermostat chosen. Berendsen thermostat will be used.
+
+Build and version information
  Leap frog integrator used by default.
 Solute and solvent atoms coupled separately to heat bath.
 May redefine groups in later section
+Number of MD steps =       200  Stepsize (fs)    =     1.000
+ Not being verbose in temperature print out
+
+Build number 6.0.11
+Build date   20231121
+Built:       
+      by     jordivilla
+      on     P-0515
+      git id d993af2a20623fcf9dc867341fb6902d395c0ec9
+      with   GNU Fortran Ubuntu 12.3.0-1ubuntu1~23.04 12.3.0
+Target temperature =      0.10  T-relax time     =      1.00
+ No thermostat chosen. Berendsen thermostat will be used.
+Qdyn version 6.0.11 , git id=d993af2a20623fcf9dc867341fb6902d395c0ec9 initialising
+Generating seed from system time, please set seed manually to reproduce results
+Number of MD steps =       200  Stepsize (fs)    =     1.000
+ Not being verbose in temperature print out
+Initial velocities will be generated from Maxwell distribution:
+Maxwell temperature=      0.10 Random number seed=       715
+ Leap frog integrator used by default.
+Target temperature =      0.10  T-relax time     =      1.00
+ No thermostat chosen. Berendsen thermostat will be used.
+ Using Shake as the constraint algorithm
+Current date 2024- 1- 3 and time 18:42:58
+
+Welcome in qdyn modification date 20231121
+
+ Q6, Copyright © 2017 Johan Åqvist, John Marelius, Shina Caroline Lynn Kamerlin and Paul Bauer
+ Q6 comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome
+ to redistribute it under certain conditions. For details, add the --help flag.
+ No thermostat chosen. Berendsen thermostat will be used.
+----------------------- Reading input from relax_001.inp ----------------------
+ Leap frog integrator used by default.
+ Leap frog integrator used by default.
+Solute and solvent atoms coupled separately to heat bath.
+May redefine groups in later section
+Solute and solvent atoms coupled separately to heat bath.
+May redefine groups in later section
+Shake constraints on solute bonds to any atoms : off
+Nonbonded method   = LRF Taylor expansion outside cut-off
+Using default temperature coupling groups
+Boundary: sphere
+Generating seed from system time, please set seed manually to reproduce results
 Generating seed from system time, please set seed manually to reproduce results
 Initial velocities will be generated from Maxwell distribution:
-Maxwell temperature=      0.10 Random number seed=      8747
+Initial velocities will be generated from Maxwell distribution:
+Maxwell temperature=      0.10 Random number seed=       715
+Maxwell temperature=      0.10 Random number seed=       715
+Cut-off radii for non-bonded interactions:
+Solute-solute:     10.00
+Solvent-solvent:   10.00
+Solute-solvent:    10.00
+Q-atom-non-Q-atom: 99.00
+LRF:               99.00
+ Using Shake as the constraint algorithm
+Shake constraints on solute bonds to any atoms : off
+ Radius of inner restrained shell set to 85% of exclusion shell radius.
+Radius of inner restrained shell       =       0.850
+Solute and solvent atoms coupled separately to heat bath.
+ Using Shake as the constraint algorithm
+Shake constraints on solute bonds to any atoms : off
+Nonbonded method   = LRF Taylor expansion outside cut-off
+Nonbonded method   = LRF Taylor expansion outside cut-off
+Using default temperature coupling groups
+Boundary: sphere
+Polarization force update at default 10/ps
+Update every  100 steps
+Using default temperature coupling groups
+Boundary: sphere
+temperature print-out interval set to default.
+Number of MD steps =       200  Stepsize (fs)    =     1.000
+ Not being verbose in temperature print out
+Cut-off radii for non-bonded interactions:
+Solute-solute:     10.00
+Solvent-solvent:   10.00
+Cut-off radii for non-bonded interactions:
+Solute-solute:     10.00
+Solvent-solvent:   10.00
+Solute-solvent:    10.00
+Q-atom-non-Q-atom: 99.00
+LRF:               99.00
+Solute-solvent:    10.00
+Q-atom-non-Q-atom: 99.00
+LRF:               99.00
+ Radius of inner restrained shell set to 85% of exclusion shell radius.
+Radius of inner restrained shell       =       0.850
+Polarization force update at default 10/ps
+Non-bonded pair list update interval   =      30
+Energy summary print-out interval      =     100
+Temperature print-out interval         =      10
+Trajectory write interval              =     100
+No energy file written.
+Target temperature =      0.10  T-relax time     =      1.00
+ No thermostat chosen. Berendsen thermostat will be used.
+ Radius of inner restrained shell set to 85% of exclusion shell radius.
+Radius of inner restrained shell       =       0.850
+Polarization force update at default 10/ps
+Update every  100 steps
+Update every  100 steps
+temperature print-out interval set to default.
+All atoms will be included in the trajectory.
+Topology file      = RRDiol.top
+Initial coordinates taken from topology.
+Final coord. file  = relax_001.re
+Trajectory file    = relax_001.dcd
+temperature print-out interval set to default.
+Non-bonded pair list update interval   =      30
+FEP input file     = RRD_Diol.fep
+
+Energy summary print-out interval      =     100
+Temperature print-out interval         =      10
+Trajectory write interval              =     100
+No energy file written.
+ Leap frog integrator used by default.
+Solute and solvent atoms coupled separately to heat bath.
+May redefine groups in later section
+All atoms will be included in the trajectory.
+Topology file      = RRDiol.top
+Initial coordinates taken from topology.
+lambda-values      =  0.90000 0.10000
+
+List of excluded atom groups
+Final coord. file  = relax_001.re
+Trajectory file    = relax_001.dcd
+No QCP section found, will not try to use RPMD.
+
+Listing of restraining data:
+Non-bonded pair list update interval   =      30
+Energy summary print-out interval      =     100
+FEP input file     = RRD_Diol.fep
+
+Generating seed from system time, please set seed manually to reproduce results
+Initial velocities will be generated from Maxwell distribution:
+Maxwell temperature=      0.10 Random number seed=       715
+ Leap frog integrator used by default.
+Temperature print-out interval         =      10
+Trajectory write interval              =     100
+No energy file written.
+All atoms will be included in the trajectory.
+Topology file      = RRDiol.top
+lambda-values      =  0.90000 0.10000
+
+List of excluded atom groups
+No QCP section found, will not try to use RPMD.
+
+Listing of restraining data:
+Solute and solvent atoms coupled separately to heat bath.
+May redefine groups in later section
+Initial coordinates taken from topology.
+Final coord. file  = relax_001.re
+Trajectory file    = relax_001.dcd
+FEP input file     = RRD_Diol.fep
+
+ Using Shake as the constraint algorithm
+Generating seed from system time, please set seed manually to reproduce results
+---------------------------- Reading topology file ---------------------------
+Shake constraints on solute bonds to any atoms : off
+Nonbonded method   = LRF Taylor expansion outside cut-off
+Using default temperature coupling groups
+Boundary: sphere
+Initial velocities will be generated from Maxwell distribution:
+Maxwell temperature=      0.10 Random number seed=       715
+lambda-values      =  0.90000 0.10000
+
+List of excluded atom groups
+No QCP section found, will not try to use RPMD.
+
+Listing of restraining data:
+---------------------------- Reading topology file ---------------------------
+Cut-off radii for non-bonded interactions:
+Solute-solute:     10.00
+Solvent-solvent:   10.00
+Solute-solvent:    10.00
+Q-atom-non-Q-atom: 99.00
+LRF:               99.00
+ Radius of inner restrained shell set to 85% of exclusion shell radius.
+Radius of inner restrained shell       =       0.850
+./RRDiol/RRDiol.top                                                             
+
+Polarization force update at default 10/ps
+Update every  100 steps
+./RRDiol/RRDiol.top                                                             
+
+No. of solute atoms     =       4755
+No. of solvent atoms    =       1269
+Solvent dielectric*1000 =     80100
+---------------------------- Reading topology file ---------------------------
+No. of solute atoms     =       4755
+No. of solvent atoms    =       1269
+Solvent dielectric*1000 =     80100
+temperature print-out interval set to default.
+Non-bonded pair list update interval   =      30
+Energy summary print-out interval      =     100
+Temperature print-out interval         =      10
+./RRDiol/RRDiol.top                                                             
+
+No. of solute atoms     =       4755
+Trajectory write interval              =     100
+No energy file written.
+All atoms will be included in the trajectory.
+Topology file      = RRDiol.top
+Initial coordinates taken from topology.
+Final coord. file  = relax_001.re
+Trajectory file    = relax_001.dcd
+FEP input file     = RRD_Diol.fep
+
+No. of solvent atoms    =       1269
+lambda-values      =  0.90000 0.10000
+
+List of excluded atom groups
+No QCP section found, will not try to use RPMD.
+
+Listing of restraining data:
  Using Shake as the constraint algorithm
 Shake constraints on solute bonds to any atoms : off
 Nonbonded method   = LRF Taylor expansion outside cut-off
 Using default temperature coupling groups
 Boundary: sphere
 Cut-off radii for non-bonded interactions:
-Solute-solute:      5.00
-Solvent-solvent:    5.00
-Solute-solvent:     5.00
+Solute-solute:     10.00
+Solvent-solvent:   10.00
+Solute-solvent:    10.00
 Q-atom-non-Q-atom: 99.00
 LRF:               99.00
  Radius of inner restrained shell set to 85% of exclusion shell radius.
@@ -62,7 +356,75 @@ No QCP section found, will not try to use RPMD.
 
 Listing of restraining data:
 ---------------------------- Reading topology file ---------------------------
-RRDiol.top                                                                      
+./RRDiol/RRDiol.top                                                             
+
+No. of solute atoms     =       4755
+No. of solvent atoms    =       1269
+Solvent dielectric*1000 =     80100
+No. of coordinates      =      18072
+Solvent dielectric*1000 =     80100
+No. of coordinates      =      18072
+No. of atom type codes  =       6024
+No. of solute bonds     =       4810
+No. of solvent bonds    =       1269
+No. of coordinates      =      18072
+No. of atom type codes  =       6024
+No. of solute bonds     =       4810
+No. of solvent bonds    =       1269
+No. of coordinates      =      18072
+No. of atom type codes  =       6024
+No. of solute bonds     =       4810
+No. of solvent bonds    =       1269
+May redefine groups in later section
+Generating seed from system time, please set seed manually to reproduce results
+Initial velocities will be generated from Maxwell distribution:
+Maxwell temperature=      0.10 Random number seed=       715
+ Using Shake as the constraint algorithm
+Shake constraints on solute bonds to any atoms : off
+Nonbonded method   = LRF Taylor expansion outside cut-off
+Using default temperature coupling groups
+Boundary: sphere
+Cut-off radii for non-bonded interactions:
+Solute-solute:     10.00
+Solvent-solvent:   10.00
+Solute-solvent:    10.00
+Q-atom-non-Q-atom: 99.00
+LRF:               99.00
+ Radius of inner restrained shell set to 85% of exclusion shell radius.
+Radius of inner restrained shell       =       0.850
+Polarization force update at default 10/ps
+Update every  100 steps
+temperature print-out interval set to default.
+Non-bonded pair list update interval   =      30
+Energy summary print-out interval      =     100
+Temperature print-out interval         =      10
+Trajectory write interval              =     100
+No energy file written.
+All atoms will be included in the trajectory.
+Topology file      = RRDiol.top
+Initial coordinates taken from topology.
+Final coord. file  = relax_001.re
+Trajectory file    = relax_001.dcd
+FEP input file     = RRD_Diol.fep
+
+lambda-values      =  0.90000 0.10000
+
+List of excluded atom groups
+No QCP section found, will not try to use RPMD.
+
+Listing of restraining data:
+---------------------------- Reading topology file ---------------------------
+./RRDiol/RRDiol.top                                                             
+
+No. of solute atoms     =       4755
+No. of solvent atoms    =       1269
+Solvent dielectric*1000 =     80100
+No. of coordinates      =      18072
+No. of atom type codes  =       6024
+No. of solute bonds     =       4810
+No. of solvent bonds    =       1269
+---------------------------- Reading topology file ---------------------------
+./RRDiol/RRDiol.top                                                             
 
 No. of solute atoms     =       4755
 No. of solvent atoms    =       1269
@@ -73,13 +435,90 @@ No. of solute bonds     =       4810
 No. of solvent bonds    =       1269
 No. of solute angles    =       8715
 No. of solvent angles   =        423
+No. of solute angles    =       8715
+No. of solvent angles   =        423
+No. of atom type codes  =       6024
+No. of solute bonds     =       4810
+No. of solvent bonds    =       1269
+No. of solute angles    =       8715
+No. of solvent angles   =        423
+No. of solute angles    =       8715
+No. of solvent angles   =        423
+No. of solute angles    =       8715
+No. of solvent angles   =        423
+No. of solute angles    =       8715
+No. of solvent angles   =        423
 No. of solute torsions  =      16781
 No. of solvent torsions =          0
+No. of solute torsions  =      16781
+No. of solvent torsions =          0
+No. of solute torsions  =      16781
+No. of solvent torsions =          0
+No. of solute torsions  =      16781
+No. of solvent torsions =          0
+No. of solute torsions  =      16781
+No. of solvent torsions =          0
+No. of solute torsions  =      16781
+No. of solvent torsions =          0
+No. of solute impropers =        951
+No. of solvent impropers=          0
 No. of solute impropers =        951
 No. of solvent impropers=          0
 No. of atomic charges   =       6024
 No. of solute chargegrps=        675
 No. of solvent chargegps=        423
+No. of atomic charges   =       6024
+No. of solute chargegrps=        675
+No. of solvent chargegps=        423
+Charge group cut-off    : Switching atoms
+vdW  rule [ 1=G / 2=A ] =          1
+El-static 1-4 damping   =      0.500
+Coulomb constant        =   332.0000
+No. of solute impropers =        951
+No. of solvent impropers=          0
+No. of atom types       =        111
+No. of LJ type 2 pairs  =          0
+No. of heavy atoms      =       2803
+No. of 1-4 neighbours   =      12665
+Charge group cut-off    : Switching atoms
+vdW  rule [ 1=G / 2=A ] =          1
+El-static 1-4 damping   =      0.500
+Coulomb constant        =   332.0000
+No. of atom types       =        111
+No. of LJ type 2 pairs  =          0
+No. of solute impropers =        951
+No. of heavy atoms      =       2803
+No. of 1-4 neighbours   =      12665
+No. of solvent impropers=          0
+No. of solute impropers =        951
+No. of solvent impropers=          0
+No. of atomic charges   =       6024
+No. of solute chargegrps=        675
+No. of solvent chargegps=        423
+No. of atomic charges   =       6024
+No. of solute chargegrps=        675
+No. of solvent chargegps=        423
+No. of atomic charges   =       6024
+No. of solute chargegrps=        675
+No. of solvent chargegps=        423
+Charge group cut-off    : Switching atoms
+vdW  rule [ 1=G / 2=A ] =          1
+El-static 1-4 damping   =      0.500
+Coulomb constant        =   332.0000
+Charge group cut-off    : Switching atoms
+vdW  rule [ 1=G / 2=A ] =          1
+El-static 1-4 damping   =      0.500
+Coulomb constant        =   332.0000
+No. of atom types       =        111
+No. long-range 1-4 nbrs =          6
+No. of nbor exclusions  =      15217
+No. of atom types       =        111
+No. of LJ type 2 pairs  =          0
+No. of heavy atoms      =       2803
+No. of 1-4 neighbours   =      12665
+No. of LJ type 2 pairs  =          0
+No. of heavy atoms      =       2803
+No. of 1-4 neighbours   =      12665
 Charge group cut-off    : Switching atoms
 vdW  rule [ 1=G / 2=A ] =          1
 El-static 1-4 damping   =      0.500
@@ -90,7 +529,11 @@ No. of heavy atoms      =       2803
 No. of 1-4 neighbours   =      12665
 No. long-range 1-4 nbrs =          6
 No. of nbor exclusions  =      15217
+No. of solute impropers =        951
+No. of solvent impropers=          0
 No. of long-range excls =          0
+No. long-range 1-4 nbrs =          6
+No. of nbor exclusions  =      15217
 No. of residues         =        725
 No of solute residues   =        302
 No. of molecules        =        428
@@ -98,15 +541,38 @@ Atom type names         =        111
 SYBYL atom types        =        111
 Boundary: sphere
 Exclusion radius        =     20.000
+No. of long-range excls =          0
+Eff. solvent radius     =     19.620
+Solvent density         =   0.03350000
+Solute centre           =      8.301    -6.381    -2.992
+No. long-range 1-4 nbrs =          6
+No. of nbor exclusions  =      15217
+No. of residues         =        725
+Solvent centre          =      8.301    -6.381    -2.992
+No of solute residues   =        302
+No. of molecules        =        428
+Atom type names         =        111
+SYBYL atom types        =        111
+Boundary: sphere
+Exclusion radius        =     20.000
+No. of atomic charges   =       6024
 Eff. solvent radius     =     19.620
 Solvent density         =   0.03350000
 Solute centre           =      8.301    -6.381    -2.992
 Solvent centre          =      8.301    -6.381    -2.992
+No. of solute chargegrps=        675
+No. of solvent chargegps=        423
 No. of excluded atoms   =       2491
 Molecular topology read successfully.
 
 Found      539 solute atoms in the restrained shell region ( 17.00 to  20.00)
+No. of excluded atoms   =       2491
+No. long-range 1-4 nbrs =          6
+No. of nbor exclusions  =      15217
 ----------------------------- Reading Q atom list ----------------------------
+Molecular topology read successfully.
+
+Found      539 solute atoms in the restrained shell region ( 17.00 to  20.00)
 No. of fep/evb states    =     2
 No. of fep/evb atoms     =    43
 Atom nos.:  4699  4700  4701  4702  4703  4704  4705  4706  4707  4708
@@ -114,6 +580,7 @@ Atom nos.:  4709  4710  4711  4712  4713  4714  4715  4716  4717  4718
 Atom nos.:  4719  4720  4721  4722  4723  4724  4725  4754  4753  4755
 Atom nos.:  1490  1491  1492  1493  1487  1488  1489  1984  1985  1986
 Atom nos.:  1981  1982  1983
+----------------------------- Reading Q atom list ----------------------------
 --------------------------- Reading fep/evb strategy --------------------------
 
 No. of changing charges  =    43
@@ -167,13 +634,17 @@ Q atom    charge in state 1 state 2
 
 No. of Q-atom types  =    66
 Name            Ai      Bi      Ci     ai Ai(1-4) Bi(1-4)    Mass
-sto.O99     445.12   18.25  170.00  2.50   314.75   12.91   16.00
-rrd.O99     760.64   25.04  180.00  2.50   537.86   17.71   16.00
-sto.C98     944.52   22.03  190.00  2.50   667.88   15.58   12.01
-rrd.C98     944.52   22.03  110.00  2.50   667.88   15.58   12.01
+sto.O99     445.12   18.25    1.00  2.50   314.75   12.91   16.00
+rrd.O99     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+sto.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+Charge group cut-off    : Switching atoms
+rrd.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
 sto.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
 rrd.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+vdW  rule [ 1=G / 2=A ] =          1
+El-static 1-4 damping   =      0.500
 sto.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+Coulomb constant        =   332.0000
 rrd.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
 sto.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
 rrd.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
@@ -202,9 +673,13 @@ rrd.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
 sto.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
 rrd.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
 sto.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+No. of atom types       =        111
 rrd.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
 sto.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
 rrd.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+No. of LJ type 2 pairs  =          0
+No. of heavy atoms      =       2803
+No. of 1-4 neighbours   =      12665
 sto.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
 rrd.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
 sto.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
@@ -224,13 +699,13 @@ rrd.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
 HW            0.00    0.00    1.00  2.50     0.00    0.00    1.01
 HO            0.00    0.00    1.00  2.50     0.00    0.00    1.01
 OW          762.89   24.39    1.00  2.50   539.44   17.25   16.00
-rrd.O88     760.64   25.04  180.00  2.50   537.86   17.71   16.00
-rrd.H88       0.01    0.04  160.00  2.50     0.00    0.03    1.01
+rrd.O88     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+rrd.H88       0.01    0.04    1.00  2.50     0.00    0.03    1.01
 C2         1802.24   34.18    1.00  2.50  1274.38   24.17   12.01
 ODE         601.15   22.27    1.00  2.50   425.08   15.75   16.00
 O2          616.44   23.77    1.00  2.50   435.89   16.81   16.00
 O1          616.44   23.77    1.00  2.50   435.89   16.81   16.00
-rrd.H89       0.01    0.04  165.00  2.50     0.00    0.03    1.01
+rrd.H89       0.01    0.04    1.00  2.50     0.00    0.03    1.01
 CT          944.52   22.03    1.00  2.50   667.88   15.58   12.01
 HC           84.57    5.41    1.00  2.50    59.80    3.83    1.01
 
@@ -292,40 +767,110 @@ q-atom_i q-atom_j
 
 Q-bond types:
 type #  Morse E_diss    alpha       b0  Harmonic force_k 
-     1        670.00     1.87     1.43
-     2        104.00     1.99     0.74
-     3        102.00     2.26     0.96
-     4        102.00     2.20     0.87
-     5        670.00     1.87     1.41
-     6        640.00     2.26     0.94
-     7       1312.00     1.87     1.25
-     8        900.00     1.87     1.36
-     9       1140.00     1.87     1.23
-    10        570.00     1.60     1.49
-    11        634.00     1.60     1.51
-    12        520.00     1.60     1.51
-    13        536.00     1.60     1.53
-    14        680.00     1.80     1.09
-    15        680.00     1.80     1.09
-    16        570.00     1.60     1.49
-    17        634.00     1.60     1.51
-    18        680.00     1.80     1.09
-    19        680.00     1.80     1.09
-    20        670.00     1.87     1.43
-    21        640.00     1.87     1.41
-    22       1106.00     2.26     0.96
-    23       1106.00     2.26     0.94
+     1                            1.30            666.00
+     2                            1.30            666.00
+     3                            1.30            666.00
+     4                            1.30            666.00
+     5                            1.30            666.00
+     6                            1.30            666.00
+     7                            1.25           1312.00
+     8                            1.36            900.00
+     9                            1.23           1140.00
+    10                            1.49            570.00
+    11                            1.51            634.00
+    12                            1.51            520.00
+    13                            1.53            536.00
+    14                            1.09            680.00
+    15                            1.09            680.00
+    16                            1.49            570.00
+    17                            1.51            634.00
+    18                            1.09            680.00
+    19                            1.09            680.00
+    20                            1.43            670.00
+    21                            1.41            640.00
+    22                            0.96           1106.00
+    23                            0.94           1106.00
 
 
 No. of changing bonds    =    18
 atom_i atom_j   bond type in state 1 state 2
   4699   4700                      1       0
+WARNING: Breaking/Forming bond    4699  code    4700  set as harmonic
+WARNING: Breaking/Forming bond       1  code       0  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21922  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21922  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       1  code
+between atoms    4699    4700
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
   4754   4755                      2       0
+WARNING: Breaking/Forming bond    4754  code    4755  set as harmonic
+WARNING: Breaking/Forming bond       2  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       2  code
+between atoms    4754    4755
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
   4753   4754                      3       0
+WARNING: Breaking/Forming bond    4753  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       3  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       3  code
+between atoms    4753    4754
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
   1491   1493                      4       0
+WARNING: Breaking/Forming bond    1491  code    1493  set as harmonic
+WARNING: Breaking/Forming bond       4  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1491    1493
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
   1985   4754                      0       4
+WARNING: Breaking/Forming bond    1985  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       0  code       4  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1985    4754
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
   4700   4753                      0       5
+WARNING: Breaking/Forming bond    4700  code    4753  set as harmonic
+WARNING: Breaking/Forming bond       0  code       5  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       5  code
+between atoms    4700    4753
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
   1493   4699                      0       6
+WARNING: Breaking/Forming bond    1493  code    4699  set as harmonic
+WARNING: Breaking/Forming bond       0  code       6  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       6  code
+between atoms    1493    4699
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
   1984   1985                      7       8
   1984   1986                      7       9
   4700   4701                     10      11
@@ -352,11 +897,14 @@ type #       force-k   theta0
     10        100.00   109.50
     11         70.00   109.50
     12        110.00   108.50
+No. of fep/evb states    =     2
     13        140.00   117.00
     14        160.00   120.40
     15        130.00   119.88
     16        140.00   112.17
     17        120.00   121.76
+No. of fep/evb atoms     =    43
+Atom nos.:  4699  4700  4701  4702  4703  4704  4705  4706  4707  4708
     18        140.00   120.00
     19        120.00   121.76
     20        140.00   120.00
@@ -380,6 +928,10 @@ type #       force-k   theta0
 
 No. of changing angles   =    27
 atom_i atom_j atom_k    angle type in state 1 state 2
+Atom nos.:  4709  4710  4711  4712  4713  4714  4715  4716  4717  4718
+Atom nos.:  4719  4720  4721  4722  4723  4724  4725  4754  4753  4755
+Atom nos.:  1490  1491  1492  1493  1487  1488  1489  1984  1985  1986
+Atom nos.:  1981  1982  1983
   4700   4699   4707                        1       0
   4699   4700   4701                        2       0
   4699   4700   4707                        3       0
@@ -510,6 +1062,2306 @@ atom_i atom_j atom_k atom_l    torsion type in state 1 state 2
   1493   4699   4707   4708                          0      35
   1493   4699   4707   4700                          0      36
   1493   4699   4707   4700                          0      37
+--------------------------- Reading fep/evb strategy --------------------------
+  1493   4699   4707   4700                          0      38
+  1493   4699   4707   4720                          0      39
+
+No. of changing charges  =    43
+  1982   1981   1984   1986                         40       0
+  1982   1981   1984   1986                          0      41
+  1983   1981   1984   1986                         40       0
+  1983   1981   1984   1986                          0      41
+  4699   4707   4708   4709                         42       0
+  4699   4707   4708   4709                         43       0
+  4699   4707   4708   4709                         44       0
+  4699   4707   4708   4709                          0      45
+  4699   4707   4708   4709                          0      46
+  4699   4707   4708   4713                         47       0
+  4699   4707   4708   4713                         48       0
+  4699   4707   4708   4713                         49       0
+  4699   4707   4708   4713                          0      50
+  4699   4707   4708   4713                          0      51
+  4699   4707   4700   4701                         52       0
+  4699   4707   4700   4701                         53       0
+  4699   4707   4700   4701                         54       0
+  4699   4707   4700   4701                          0      55
+  4699   4707   4700   4701                          0      56
+  1488   1487   1490   1492                         41       0
+  1488   1487   1490   1492                          0      40
+  1489   1487   1490   1492                         41       0
+  1489   1487   1490   1492                          0      40
+Effective Q-atom charges for all Q-atoms
+Q atom    charge in state 1 state 2
+     1               -0.249  -0.708
+     2               -0.109   0.369
+     3                0.228  -0.046
+     4               -0.215  -0.148
+     5               -0.124  -0.158
+     6               -0.175  -0.123
+     7               -0.124  -0.158
+     8               -0.215  -0.148
+     9               -0.109   0.368
+    10                0.227  -0.046
+    11               -0.215  -0.148
+    12               -0.124  -0.158
+    13               -0.175  -0.123
+    14               -0.124  -0.158
+    15               -0.215  -0.148
+    16                0.133  -0.002
+    17                0.147   0.150
+    18                0.143   0.138
+    19                0.146   0.133
+    20                0.143   0.138
+    21                0.147   0.150
+    22                0.133  -0.003
+    23                0.147   0.150
+    24                0.143   0.138
+    25                0.146   0.133
+    26                0.143   0.138
+    27                0.147   0.150
+    28                0.417   0.450
+    29               -0.834  -0.709
+    30                0.417   0.414
+
+No. of offdiagonal (Hij) functions =     1
+state_i state_j atom_k atom_l     Aij mu_ij
+    31                0.520   0.700
+    32               -0.530  -0.800
+    33               -0.440  -0.800
+    34                0.450   0.415
+    35               -0.120  -0.220
+    36                0.060   0.060
+    37                0.060   0.060
+    38                0.700   0.520
+    39               -0.800  -0.530
+    40               -0.800  -0.440
+    41               -0.220  -0.120
+      1       2     13     14    0.00  0.00
+    42                0.060   0.060
+    43                0.060   0.060
+
+   SUM               -1.000  -1.000
+
+No. of Q-atom types  =    66
+Name            Ai      Bi      Ci     ai Ai(1-4) Bi(1-4)    Mass
+No softcore section found. Using normal LJ potentials.
+sto.O99     445.12   18.25    1.00  2.50   314.75   12.91   16.00
+
+---------------- Removing redefined interactions from topology ---------------
+rrd.O99     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+type      atom1 atom2 atom3 atom4
+sto.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+bond       1490  1491
+sto.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+bond       1490  1492
+bond       1491  1493
+bond       1984  1985
+sto.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+bond       1984  1986
+sto.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+No. of long-range excls =          0
+sto.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+bond       4699  4700
+bond       4699  4707
+bond       4700  4701
+bond       4700  4707
+bond       4700  4714
+bond       4707  4708
+bond       4707  4720
+bond       4753  4754
+bond       4753  4755
+bond       4754  4755
+rrd.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+sto.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+angle      1487  1490  1492
+angle      1490  1491  1493
+rrd.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+angle      1981  1984  1986
+rrd.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+No. of residues         =        725
+sto.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+No of solute residues   =        302
+sto.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+No. of molecules        =        428
+rrd.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+sto.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+Atom type names         =        111
+sto.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+SYBYL atom types        =        111
+Boundary: sphere
+rrd.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+Exclusion radius        =     20.000
+Eff. solvent radius     =     19.620
+sto.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+Solvent density         =   0.03350000
+Solute centre           =      8.301    -6.381    -2.992
+rrd.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+angle      4700  4699  4707
+angle      4699  4700  4701
+angle      4699  4700  4707
+angle      4699  4700  4714
+Solvent centre          =      8.301    -6.381    -2.992
+sto.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+angle      4699  4707  4700
+angle      4699  4707  4708
+angle      4699  4707  4720
+angle      4701  4700  4707
+angle      4700  4701  4702
+angle      4700  4701  4706
+angle      4707  4700  4714
+rrd.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+angle      4700  4707  4708
+angle      4700  4707  4720
+angle      4707  4708  4709
+angle      4707  4708  4713
+angle      4754  4753  4755
+sto.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+HW            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+HO            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+No. of excluded atoms   =       2491
+OW          762.89   24.39    1.00  2.50   539.44   17.25   16.00
+rrd.O88     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+Molecular topology read successfully.
+rrd.H88       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+
+C2         1802.24   34.18    1.00  2.50  1274.38   24.17   12.01
+ODE         601.15   22.27    1.00  2.50   425.08   15.75   16.00
+O2          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+O1          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+Found      539 solute atoms in the restrained shell region ( 17.00 to  20.00)
+rrd.H89       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+CT          944.52   22.03    1.00  2.50   667.88   15.58   12.01
+HC           84.57    5.41    1.00  2.50    59.80    3.83    1.01
+
+Assigning Q-atom types to all Q atoms:
+Q atom    atom type in  state 1  state 2
+     1                  sto.O99  rrd.O99 
+     2                  sto.C98  rrd.C98 
+     3                  sto.C96  rrd.C96 
+     4                  sto.C1   rrd.C1  
+     5                  sto.C2   rrd.C2  
+     6                  sto.C3   rrd.C3  
+     7                  sto.C4   rrd.C4  
+     8                  sto.C5   rrd.C5  
+torsion    1488  1487  1490  1492
+torsion    1489  1487  1490  1492
+torsion    1487  1490  1491  1493
+torsion    1487  1490  1491  1493
+torsion    1492  1490  1491  1493
+     9                  sto.C99  rrd.C99 
+    10                  sto.C97  rrd.C97 
+----------------------------- Reading Q atom list ----------------------------
+    11                  sto.C10  rrd.C10 
+    12                  sto.C11  rrd.C11 
+    13                  sto.C12  rrd.C12 
+    14                  sto.C13  rrd.C13 
+    15                  sto.C14  rrd.C14 
+    16                  sto.H98  rrd.H98 
+    17                  sto.H1   rrd.H1  
+    18                  sto.H2   rrd.H2  
+    19                  sto.H3   rrd.H3  
+    20                  sto.H4   rrd.H4  
+    21                  sto.H5   rrd.H5  
+    22                  sto.H99  rrd.H99 
+    23                  sto.H10  rrd.H10 
+    24                  sto.H11  rrd.H11 
+    25                  sto.H12  rrd.H12 
+    26                  sto.H13  rrd.H13 
+    27                  sto.H14  rrd.H14 
+    28                  HW       HO      
+No. of long-range excls =          0
+    29                  OW       rrd.O88 
+    30                  HW       rrd.H88 
+    31                  C2       C2      
+    32                  ODE      O2      
+    33                  O1       O2      
+    34                  HO       rrd.H89 
+    35                  CT       CT      
+    36                  HC       HC      
+    37                  HC       HC      
+    38                  C2       C2      
+    39                  O2       ODE     
+    40                  O2       O1      
+    41                  CT       CT      
+    42                  HC       HC      
+    43                  HC       HC      
+
+No. of soft repulsion non-bonded pairs =     7
+q-atom_i q-atom_j
+       1        2
+      28       30
+      29       28
+      32       34
+      39       28
+       2       29
+       1       34
+
+Q-bond types:
+type #  Morse E_diss    alpha       b0  Harmonic force_k 
+     1                            1.30            666.00
+torsion    1982  1981  1984  1986
+torsion    1983  1981  1984  1986
+     2                            1.30            666.00
+     3                            1.30            666.00
+     4                            1.30            666.00
+     5                            1.30            666.00
+     6                            1.30            666.00
+     7                            1.25           1312.00
+     8                            1.36            900.00
+No. of residues         =        725
+No of solute residues   =        302
+     9                            1.23           1140.00
+    10                            1.49            570.00
+    11                            1.51            634.00
+    12                            1.51            520.00
+    13                            1.53            536.00
+No. of molecules        =        428
+    14                            1.09            680.00
+    15                            1.09            680.00
+    16                            1.49            570.00
+    17                            1.51            634.00
+Atom type names         =        111
+    18                            1.09            680.00
+SYBYL atom types        =        111
+Boundary: sphere
+Exclusion radius        =     20.000
+    19                            1.09            680.00
+    20                            1.43            670.00
+    21                            1.41            640.00
+Eff. solvent radius     =     19.620
+Solvent density         =   0.03350000
+Solute centre           =      8.301    -6.381    -2.992
+Solvent centre          =      8.301    -6.381    -2.992
+    22                            0.96           1106.00
+    23                            0.94           1106.00
+
+No. of fep/evb states    =     2
+
+No. of excluded atoms   =       2491
+Molecular topology read successfully.
+No. of fep/evb atoms     =    43
+Atom nos.:  4699  4700  4701  4702  4703  4704  4705  4706  4707  4708
+Atom nos.:  4709  4710  4711  4712  4713  4714  4715  4716  4717  4718
+Atom nos.:  4719  4720  4721  4722  4723  4724  4725  4754  4753  4755
+Atom nos.:  1490  1491  1492  1493  1487  1488  1489  1984  1985  1986
+Atom nos.:  1981  1982  1983
+
+No. of long-range excls =          0
+Found      539 solute atoms in the restrained shell region ( 17.00 to  20.00)
+No. of changing bonds    =    18
+atom_i atom_j   bond type in state 1 state 2
+  4699   4700                      1       0
+WARNING: Breaking/Forming bond    4699  code    4700  set as harmonic
+WARNING: Breaking/Forming bond       1  code       0  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21979  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21979  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       1  code
+between atoms    4699    4700
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+torsion    4707  4699  4700  4701
+torsion    4707  4699  4700  4714
+No. of residues         =        725
+No of solute residues   =        302
+torsion    4700  4699  4707  4708
+torsion    4700  4699  4707  4720
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+----------------------------- Reading Q atom list ----------------------------
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+No. of molecules        =        428
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4720
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+
+Atom type names         =        111
+---------------------------- Initialising dynamics ---------------------------
+Total charge of non-Q atoms             =      -5.34
+Total charge of excluded atoms          =      -0.66
+Total charge of system                  =      -6.34
+--------------------------- Reading fep/evb strategy --------------------------
+SYBYL atom types        =        111
+
+No. of changing charges  =    43
+Target water sphere radius              =      19.62
+Surface inward harmonic force constant  =      60.00
+Surface attraction well depth           =       0.85
+Surface attraction well width           =       0.48
+Water polarisation restraints           : ON, Born correction enabled
+Radial polarisation force constant      =      20.00
+
+Setting up 3 water shells for polarisation restraints.
+Shell #    outer radius    inner radius
+      1           19.62           19.12
+Boundary: sphere
+Exclusion radius        =     20.000
+      2           19.12           18.12
+      3           18.12           16.62
+Eff. solvent radius     =     19.620
+Solvent density         =   0.03350000
+Solute centre           =      8.301    -6.381    -2.992
+Solvent centre          =      8.301    -6.381    -2.992
+Effective Q-atom charges for all Q-atoms
+
+Number of shake constraints             =          0
+No. molecules with shake constraints    =          1
+Q atom    charge in state 1 state 2
+     1               -0.249  -0.708
+     2               -0.109   0.369
+     3                0.228  -0.046
+     4               -0.215  -0.148
+     5               -0.124  -0.158
+     6               -0.175  -0.123
+     7               -0.124  -0.158
+     8               -0.215  -0.148
+     9               -0.109   0.368
+    10                0.227  -0.046
+    11               -0.215  -0.148
+    12               -0.124  -0.158
+    13               -0.175  -0.123
+    14               -0.124  -0.158
+    15               -0.215  -0.148
+    16                0.133  -0.002
+    17                0.147   0.150
+    18                0.143   0.138
+No. of excluded atoms   =       2491
+Molecular topology read successfully.
+
+    19                0.146   0.133
+    20                0.143   0.138
+No. of fep/evb states    =     2
+    21                0.147   0.150
+    22                0.133  -0.003
+    23                0.147   0.150
+    24                0.143   0.138
+Found      539 solute atoms in the restrained shell region ( 17.00 to  20.00)
+    25                0.146   0.133
+    26                0.143   0.138
+    27                0.147   0.150
+No. of fep/evb atoms     =    43
+    28                0.417   0.450
+Atom nos.:  4699  4700  4701  4702  4703  4704  4705  4706  4707  4708
+Atom nos.:  4709  4710  4711  4712  4713  4714  4715  4716  4717  4718
+Atom nos.:  4719  4720  4721  4722  4723  4724  4725  4754  4753  4755
+Atom nos.:  1490  1491  1492  1493  1487  1488  1489  1984  1985  1986
+Atom nos.:  1981  1982  1983
+    29               -0.834  -0.709
+    30                0.417   0.414
+    31                0.520   0.700
+    32               -0.530  -0.800
+    33               -0.440  -0.800
+    34                0.450   0.415
+    35               -0.120  -0.220
+    36                0.060   0.060
+    37                0.060   0.060
+    38                0.700   0.520
+    39               -0.800  -0.530
+    40               -0.800  -0.440
+    41               -0.220  -0.120
+    42                0.060   0.060
+    43                0.060   0.060
+
+----------------------------- Reading Q atom list ----------------------------
+   SUM               -1.000  -1.000
+
+No. of Q-atom types  =    66
+Name            Ai      Bi      Ci     ai Ai(1-4) Bi(1-4)    Mass
+sto.O99     445.12   18.25    1.00  2.50   314.75   12.91   16.00
+rrd.O99     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+sto.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+  4754   4755                      2       0
+sto.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+WARNING: Breaking/Forming bond    4754  code    4755  set as harmonic
+WARNING: Breaking/Forming bond       2  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       2  code
+between atoms    4754    4755
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4753   4754                      3       0
+rrd.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+WARNING: Breaking/Forming bond    4753  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       3  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       3  code
+between atoms    4753    4754
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  1491   1493                      4       0
+WARNING: Breaking/Forming bond    1491  code    1493  set as harmonic
+WARNING: Breaking/Forming bond       4  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1491    1493
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  1985   4754                      0       4
+WARNING: Breaking/Forming bond    1985  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       0  code       4  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1985    4754
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  4700   4753                      0       5
+WARNING: Breaking/Forming bond    4700  code    4753  set as harmonic
+WARNING: Breaking/Forming bond       0  code       5  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       5  code
+between atoms    4700    4753
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  1493   4699                      0       6
+WARNING: Breaking/Forming bond    1493  code    4699  set as harmonic
+WARNING: Breaking/Forming bond       0  code       6  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       6  code
+between atoms    1493    4699
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  1984   1985                      7       8
+  1984   1986                      7       9
+  4700   4701                     10      11
+  4700   4707                     12      13
+  4700   4714                     14      15
+  4707   4708                     16      17
+  4707   4720                     18      19
+  4699   4707                     20      21
+  4753   4755                     22      23
+  1490   1491                      8       7
+--------------------------- Reading fep/evb strategy --------------------------
+
+  1490   1492                      9       7
+No. of changing charges  =    43
+
+sto.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+Q-angle types:
+type #       force-k   theta0sto.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+
+     1         30.00    59.15
+     2        170.00   111.86
+     3         30.00    60.43
+     4        100.00   114.28
+     5        200.00   104.52
+     6          0.00   127.74
+     7         70.00   113.00
+     8        180.00   112.52
+     9        110.00   108.50
+    10        100.00   109.50
+    11         70.00   109.50
+    12        110.00   108.50
+    13        140.00   117.00
+    14        160.00   120.40
+    15        130.00   119.88
+    16        140.00   112.17
+Effective Q-atom charges for all Q-atoms
+Q atom    charge in state 1 state 2
+    17        120.00   121.76
+    18        140.00   120.00
+     1               -0.249  -0.708
+     2               -0.109   0.369
+     3                0.228  -0.046
+    19        120.00   121.76
+     4               -0.215  -0.148
+     5               -0.124  -0.158
+     6               -0.175  -0.123
+     7               -0.124  -0.158
+    20        140.00   120.00
+    21        130.00   119.88
+     8               -0.215  -0.148
+     9               -0.109   0.368
+    10                0.227  -0.046
+    11               -0.215  -0.148
+    22        140.00   112.17
+    23         75.00   117.20
+    12               -0.124  -0.158
+    13               -0.175  -0.123
+    14               -0.124  -0.158
+    15               -0.215  -0.148
+    16                0.133  -0.002
+    24         75.00   110.70
+    17                0.147   0.150
+    18                0.143   0.138
+    19                0.146   0.133
+    20                0.143   0.138
+    25        120.00   121.76
+    26        140.00   120.00
+    21                0.147   0.150
+    22                0.133  -0.003
+    23                0.147   0.150
+    24                0.143   0.138
+    27        120.00   121.76
+    25                0.146   0.133
+    26                0.143   0.138
+    27                0.147   0.150
+    28                0.417   0.450
+    28        140.00   120.00
+    29         75.00   117.20
+    29               -0.834  -0.709
+    30                0.417   0.414
+    31                0.520   0.700
+    32               -0.530  -0.800
+    33               -0.440  -0.800
+    30         75.00   110.70
+    31        170.00   111.86
+    34                0.450   0.415
+    35               -0.120  -0.220
+    36                0.060   0.060
+    37                0.060   0.060
+    32        180.00   112.52
+    38                0.700   0.520
+    39               -0.800  -0.530
+    40               -0.800  -0.440
+    41               -0.220  -0.120
+    42                0.060   0.060
+    33         30.00    60.43
+    34        100.00   109.50
+    43                0.060   0.060
+
+   SUM               -1.000  -1.000
+
+    35        100.00   114.28
+    36         70.00   109.50
+No. of Q-atom types  =    66
+Name            Ai      Bi      Ci     ai Ai(1-4) Bi(1-4)    Mass
+
+
+No. of changing angles   =    27
+atom_i atom_j atom_k    angle type in state 1 state 2
+  4700   4699   4707                        1       0
+  4699   4700   4701                        2       0
+sto.O99     445.12   18.25    1.00  2.50   314.75   12.91   16.00
+  4699   4700   4707                        3       0
+  4699   4700   4714                        4       0
+rrd.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  4754   4753   4755                        5       0
+  4753   4754   4755                        6       0
+rrd.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  4753   4755   4754                        6       0
+  1490   1491   1493                        7       0
+  1984   1985   4754                        0       7
+sto.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+  4701   4700   4753                        0       8
+  4700   4753   4755                        0       9
+No. of fep/evb states    =     2
+rrd.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+  4707   4700   4753                        0      10
+  4714   4700   4753                        0      11
+  1493   4699   4707                        0      12
+sto.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  1981   1984   1986                       13      14
+  4701   4700   4707                       15      16
+rrd.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  4700   4701   4702                       17      18
+  4700   4701   4706                       19      20
+  4700   4707   4708                       21      22
+sto.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  4700   4707   4720                       23      24
+  4707   4708   4709                       25      26
+rrd.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  4707   4708   4713                       27      28
+sto.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  4707   4700   4714                       29      30
+  4699   4707   4708                       31      32
+  4699   4707   4700                       33      34
+  4699   4707   4720                       35      36
+rrd.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  1487   1490   1492                       14      13
+sto.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.O99     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+No. of fep/evb atoms     =    43
+Atom nos.:  4699  4700  4701  4702  4703  4704  4705  4706  4707  4708
+Atom nos.:  4709  4710  4711  4712  4713  4714  4715  4716  4717  4718
+Atom nos.:  4719  4720  4721  4722  4723  4724  4725  4754  4753  4755
+Atom nos.:  1490  1491  1492  1493  1487  1488  1489  1984  1985  1986
+Atom nos.:  1981  1982  1983
+rrd.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+sto.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+sto.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+
+Q-torsion types:
+type #       force-k     mult    delta
+sto.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+     1          0.38     3.00     0.00
+sto.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+     2          0.38     3.00     0.00
+     3          0.37     3.00     0.00
+rrd.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+     4          0.37     3.00     0.00
+     5          0.65     1.00     0.00
+sto.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+     6          0.15     2.00   180.00
+rrd.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+     7          0.21     3.00     0.00
+     8          0.65     1.00     0.00
+sto.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+     9          0.15     2.00   180.00
+rrd.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    10          0.21     3.00     0.00
+    11         -0.64     1.00     0.00
+sto.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    12         -0.04     2.00   180.00
+    13          0.20     3.00     0.00
+rrd.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    14          0.23     3.00     0.00
+No. long-range 1-4 nbrs =          6
+    15          1.50     1.00     0.00
+sto.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+No. of nbor exclusions  =      15217
+    16          2.45     2.00   180.00
+    17          2.45     2.00   180.00
+    18          0.14     2.00   180.00
+sto.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+    19          0.00     3.00     0.00
+    20          0.14     2.00   180.00
+rrd.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+    21          0.00     3.00     0.00
+    22          0.32     1.00     0.00
+sto.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    23         -0.12     2.00   180.00
+    24          0.39     3.00     0.00
+rrd.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    25          1.13     1.00     0.00
+sto.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    26         -1.01     2.00   180.00
+    27         -0.12     1.00     0.00
+rrd.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    28         -0.09     2.00   180.00
+    29          0.21     3.00     0.00
+sto.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    30          0.19     3.00     0.00
+    31          0.23     3.00     0.00
+rrd.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    32          3.75     1.00     0.00
+    33          0.32     1.00     0.00
+sto.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    34         -0.12     2.00   180.00
+    35          0.39     3.00     0.00
+rrd.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    36         -0.12     1.00     0.00
+sto.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    37         -0.09     2.00   180.00
+    38          0.21     3.00     0.00
+rrd.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    39          0.19     3.00     0.00
+    40          0.00     1.00     0.00
+sto.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    41          0.00     2.00   180.00
+    42          0.65     1.00     0.00
+rrd.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    43          0.15     2.00   180.00
+    44          0.21     3.00     0.00
+sto.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+    45          0.14     2.00   180.00
+    46          0.00     3.00     0.00
+rrd.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+    47          0.65     1.00     0.00
+sto.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    48          0.15     2.00   180.00
+    49          0.21     3.00     0.00
+rrd.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    50          0.14     2.00   180.00
+    51          0.00     3.00     0.00
+sto.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    52         -0.64     1.00     0.00
+rrd.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    53         -0.04     2.00   180.00
+    54          0.20     3.00     0.00
+sto.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    55          1.13     1.00     0.00
+    56         -1.01     2.00   180.00
+rrd.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+
+
+No. of changing torsions =    65
+atom_i atom_j atom_k atom_l    torsion type in state 1 state 2
+sto.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4701   4700   4699   4707                          1       0
+  4700   4699   4707   4708                          2       0
+rrd.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4700   4699   4707   4720                          3       0
+sto.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4707   4699   4700   4714                          4       0
+  4699   4700   4701   4702                          5       0
+rrd.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4699   4700   4701   4702                          6       0
+  4699   4700   4701   4702                          7       0
+sto.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+  4699   4700   4701   4706                          8       0
+  4699   4700   4701   4706                          9       0
+rrd.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+  4699   4700   4701   4706                         10       0
+  4699   4700   4707   4708                         11       0
+sto.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4699   4700   4707   4708                         12       0
+  4699   4700   4707   4708                         13       0
+rrd.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4699   4700   4707   4720                         14       0
+sto.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  1487   1490   1491   1493                         15       0
+  1487   1490   1491   1493                         16       0
+  1492   1490   1491   1493                         17       0
+rrd.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  1981   1984   1985   4754                          0      15
+sto.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  1981   1984   1985   4754                          0      16
+  1986   1984   1985   4754                          0      17
+rrd.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4702   4701   4700   4753                          0      18
+--------------------------- Reading fep/evb strategy --------------------------
+
+No. of changing charges  =    43
+  4702   4701   4700   4753                          0      19
+  4706   4701   4700   4753                          0      20
+sto.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4706   4701   4700   4753                          0      21
+rrd.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4701   4700   4753   4755                          0      22
+  4701   4700   4753   4755                          0      23
+sto.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4701   4700   4753   4755                          0      24
+  4708   4707   4700   4753                          0      25
+rrd.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4708   4707   4700   4753                          0      26
+  4707   4700   4753   4755                          0      27
+  4707   4700   4753   4755                          0      28
+HW            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+  4707   4700   4753   4755                          0      29
+HO            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+  4714   4700   4753   4755                          0      30
+  4720   4707   4700   4753                          0      31
+  4699   4707   4700   4753                          0      32
+OW          762.89   24.39    1.00  2.50   539.44   17.25   16.00
+  1493   4699   4707   4708                          0      33
+  1493   4699   4707   4708                          0      34
+rrd.O88     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+  1493   4699   4707   4708                          0      35
+  1493   4699   4707   4700                          0      36
+  1493   4699   4707   4700                          0      37
+rrd.H88       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+  1493   4699   4707   4700                          0      38
+  1493   4699   4707   4720                          0      39
+C2         1802.24   34.18    1.00  2.50  1274.38   24.17   12.01
+  1982   1981   1984   1986                         40       0
+  1982   1981   1984   1986                          0      41
+  1983   1981   1984   1986                         40       0
+ODE         601.15   22.27    1.00  2.50   425.08   15.75   16.00
+  1983   1981   1984   1986                          0      41
+O2          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+  4699   4707   4708   4709                         42       0
+  4699   4707   4708   4709                         43       0
+  4699   4707   4708   4709                         44       0
+O1          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+  4699   4707   4708   4709                          0      45
+  4699   4707   4708   4709                          0      46
+rrd.H89       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+  4699   4707   4708   4713                         47       0
+  4699   4707   4708   4713                         48       0
+CT          944.52   22.03    1.00  2.50   667.88   15.58   12.01
+Effective Q-atom charges for all Q-atoms
+Q atom    charge in state 1 state 2
+     1               -0.249  -0.708
+  4699   4707   4708   4713                         49       0
+  4699   4707   4708   4713                          0      50
+HC           84.57    5.41    1.00  2.50    59.80    3.83    1.01
+     2               -0.109   0.369
+     3                0.228  -0.046
+     4               -0.215  -0.148
+     5               -0.124  -0.158
+  4699   4707   4708   4713                          0      51
+  4699   4707   4700   4701                         52       0
+     6               -0.175  -0.123
+     7               -0.124  -0.158
+     8               -0.215  -0.148
+     9               -0.109   0.368
+  4699   4707   4700   4701                         53       0
+  4699   4707   4700   4701                         54       0
+    10                0.227  -0.046
+    11               -0.215  -0.148
+    12               -0.124  -0.158
+    13               -0.175  -0.123
+  4699   4707   4700   4701                          0      55
+    14               -0.124  -0.158
+    15               -0.215  -0.148
+    16                0.133  -0.002
+  4699   4707   4700   4701                          0      56
+  1488   1487   1490   1492                         41       0
+    17                0.147   0.150
+    18                0.143   0.138
+    19                0.146   0.133
+    20                0.143   0.138
+  1488   1487   1490   1492                          0      40
+  1489   1487   1490   1492                         41       0
+    21                0.147   0.150
+    22                0.133  -0.003
+    23                0.147   0.150
+    24                0.143   0.138
+  1489   1487   1490   1492                          0      40
+
+Assigning Q-atom types to all Q atoms:
+Q atom    atom type in  state 1  state 2
+    25                0.146   0.133
+    26                0.143   0.138
+    27                0.147   0.150
+    28                0.417   0.450
+    29               -0.834  -0.709
+    30                0.417   0.414
+     1                  sto.O99  rrd.O99 
+     2                  sto.C98  rrd.C98 
+    31                0.520   0.700
+    32               -0.530  -0.800
+    33               -0.440  -0.800
+    34                0.450   0.415
+     3                  sto.C96  rrd.C96 
+     4                  sto.C1   rrd.C1  
+    35               -0.120  -0.220
+    36                0.060   0.060
+    37                0.060   0.060
+     5                  sto.C2   rrd.C2  
+     6                  sto.C3   rrd.C3  
+    38                0.700   0.520
+    39               -0.800  -0.530
+    40               -0.800  -0.440
+    41               -0.220  -0.120
+     7                  sto.C4   rrd.C4  
+     8                  sto.C5   rrd.C5  
+     9                  sto.C99  rrd.C99 
+    42                0.060   0.060
+    43                0.060   0.060
+
+   SUM               -1.000  -1.000
+    10                  sto.C97  rrd.C97 
+    11                  sto.C10  rrd.C10 
+
+No. of Q-atom types  =    66
+Name            Ai      Bi      Ci     ai Ai(1-4) Bi(1-4)    Mass
+    12                  sto.C11  rrd.C11 
+    13                  sto.C12  rrd.C12 
+    14                  sto.C13  rrd.C13 
+    15                  sto.C14  rrd.C14 
+    16                  sto.H98  rrd.H98 
+sto.O99     445.12   18.25    1.00  2.50   314.75   12.91   16.00
+    17                  sto.H1   rrd.H1  
+    18                  sto.H2   rrd.H2  
+    19                  sto.H3   rrd.H3  
+rrd.O99     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+    20                  sto.H4   rrd.H4  
+    21                  sto.H5   rrd.H5  
+    22                  sto.H99  rrd.H99 
+    23                  sto.H10  rrd.H10 
+sto.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+    24                  sto.H11  rrd.H11 
+    25                  sto.H12  rrd.H12 
+    26                  sto.H13  rrd.H13 
+    27                  sto.H14  rrd.H14 
+rrd.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+    28                  HW       HO      
+    29                  OW       rrd.O88 
+sto.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    30                  HW       rrd.H88 
+    31                  C2       C2      
+    32                  ODE      O2      
+rrd.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    33                  O1       O2      
+    34                  HO       rrd.H89 
+    35                  CT       CT      
+    36                  HC       HC      
+sto.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    37                  HC       HC      
+    38                  C2       C2      
+rrd.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    39                  O2       ODE     
+    40                  O2       O1      
+    41                  CT       CT      
+    42                  HC       HC      
+sto.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    43                  HC       HC      
+
+No. of soft repulsion non-bonded pairs =     7
+q-atom_i q-atom_j
+       1        2
+rrd.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+      28       30
+      29       28
+      32       34
+sto.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+      39       28
+       2       29
+       1       34
+rrd.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+
+Q-bond types:
+type #  Morse E_diss    alpha       b0  Harmonic force_k 
+rrd.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+
+No. of offdiagonal (Hij) functions =     1
+state_i state_j atom_k atom_l     Aij mu_ij
+sto.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+      1       2     13     14    0.00  0.00
+     1                            1.30            666.00
+     2                            1.30            666.00
+     3                            1.30            666.00
+rrd.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+     4                            1.30            666.00
+sto.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+No softcore section found. Using normal LJ potentials.
+     5                            1.30            666.00
+     6                            1.30            666.00
+rrd.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+     7                            1.25           1312.00
+sto.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+     8                            1.36            900.00
+
+     9                            1.23           1140.00
+rrd.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+---------------- Removing redefined interactions from topology ---------------
+type      atom1 atom2 atom3 atom4
+    10                            1.49            570.00
+    11                            1.51            634.00
+sto.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    12                            1.51            520.00
+rrd.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    13                            1.53            536.00
+sto.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    14                            1.09            680.00
+    15                            1.09            680.00
+rrd.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    16                            1.49            570.00
+sto.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    17                            1.51            634.00
+    18                            1.09            680.00
+rrd.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    19                            1.09            680.00
+sto.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+bond       1490  1491
+bond       1490  1492
+bond       1491  1493
+    20                            1.43            670.00
+    21                            1.41            640.00
+rrd.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    22                            0.96           1106.00
+sto.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    23                            0.94           1106.00
+
+bond       1984  1985
+bond       1984  1986
+
+No. of changing bonds    =    18
+atom_i atom_j   bond type in state 1 state 2
+rrd.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4699   4700                      1       0
+HW            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+WARNING: Breaking/Forming bond    4699  code    4700  set as harmonic
+WARNING: Breaking/Forming bond       1  code       0  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21997  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21997  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       1  code
+HO            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+between atoms    4699    4700
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+OW          762.89   24.39    1.00  2.50   539.44   17.25   16.00
+  4754   4755                      2       0
+WARNING: Breaking/Forming bond    4754  code    4755  set as harmonic
+WARNING: Breaking/Forming bond       2  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+rrd.O88     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       2  code
+between atoms    4754    4755
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4753   4754                      3       0
+rrd.H88       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+WARNING: Breaking/Forming bond    4753  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       3  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       3  code
+between atoms    4753    4754
+     1          0.00     0.00     1.30
+C2         1802.24   34.18    1.00  2.50  1274.38   24.17   12.01
+     1                            1.30            666.00
+  1491   1493                      4       0
+WARNING: Breaking/Forming bond    1491  code    1493  set as harmonic
+WARNING: Breaking/Forming bond       4  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+ODE         601.15   22.27    1.00  2.50   425.08   15.75   16.00
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1491    1493
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+O2          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+  1985   4754                      0       4
+WARNING: Breaking/Forming bond    1985  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       0  code       4  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1985    4754
+O1          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+rrd.H89       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+  4700   4753                      0       5
+WARNING: Breaking/Forming bond    4700  code    4753  set as harmonic
+WARNING: Breaking/Forming bond       0  code       5  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       5  code
+between atoms    4700    4753
+     2          0.00     0.00     1.30
+CT          944.52   22.03    1.00  2.50   667.88   15.58   12.01
+bond       4699  4700
+bond       4699  4707
+bond       4700  4701
+bond       4700  4707
+bond       4700  4714
+     2                            1.30            666.00
+  1493   4699                      0       6
+WARNING: Breaking/Forming bond    1493  code    4699  set as harmonic
+WARNING: Breaking/Forming bond       0  code       6  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+HC           84.57    5.41    1.00  2.50    59.80    3.83    1.01
+bond       4707  4708
+bond       4707  4720
+bond       4753  4754
+bond       4753  4755
+bond       4754  4755
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       6  code
+between atoms    1493    4699
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  1984   1985                      7       8
+  1984   1986                      7       9
+  4700   4701                     10      11
+  4700   4707                     12      13
+  4700   4714                     14      15
+  4707   4708                     16      17
+  4707   4720                     18      19
+  4699   4707                     20      21
+  4753   4755                     22      23
+
+Assigning Q-atom types to all Q atoms:
+Q atom    atom type in  state 1  state 2
+  1490   1491                      8       7
+  1490   1492                      9       7
+     1                  sto.O99  rrd.O99 
+     2                  sto.C98  rrd.C98 
+     3                  sto.C96  rrd.C96 
+     4                  sto.C1   rrd.C1  
+     5                  sto.C2   rrd.C2  
+     6                  sto.C3   rrd.C3  
+     7                  sto.C4   rrd.C4  
+     8                  sto.C5   rrd.C5  
+     9                  sto.C99  rrd.C99 
+    10                  sto.C97  rrd.C97 
+
+Q-angle types:
+    11                  sto.C10  rrd.C10 
+    12                  sto.C11  rrd.C11 
+type #       force-k   theta0
+     1         30.00    59.15
+    13                  sto.C12  rrd.C12 
+    14                  sto.C13  rrd.C13 
+     2        170.00   111.86
+    15                  sto.C14  rrd.C14 
+    16                  sto.H98  rrd.H98 
+     3         30.00    60.43
+     4        100.00   114.28
+    17                  sto.H1   rrd.H1  
+    18                  sto.H2   rrd.H2  
+    19                  sto.H3   rrd.H3  
+     5        200.00   104.52
+     6          0.00   127.74
+    20                  sto.H4   rrd.H4  
+    21                  sto.H5   rrd.H5  
+     7         70.00   113.00
+    22                  sto.H99  rrd.H99 
+    23                  sto.H10  rrd.H10 
+     8        180.00   112.52
+     9        110.00   108.50
+    24                  sto.H11  rrd.H11 
+    25                  sto.H12  rrd.H12 
+    10        100.00   109.50
+    11         70.00   109.50
+    26                  sto.H13  rrd.H13 
+    27                  sto.H14  rrd.H14 
+    28                  HW       HO      
+    12        110.00   108.50
+    29                  OW       rrd.O88 
+    30                  HW       rrd.H88 
+    13        140.00   117.00
+    14        160.00   120.40
+    31                  C2       C2      
+    32                  ODE      O2      
+    15        130.00   119.88
+    16        140.00   112.17
+    33                  O1       O2      
+    34                  HO       rrd.H89 
+    35                  CT       CT      
+    17        120.00   121.76
+    18        140.00   120.00
+    36                  HC       HC      
+    37                  HC       HC      
+    19        120.00   121.76
+    38                  C2       C2      
+    39                  O2       ODE     
+    40                  O2       O1      
+    20        140.00   120.00
+    21        130.00   119.88
+    41                  CT       CT      
+    42                  HC       HC      
+    22        140.00   112.17
+    23         75.00   117.20
+    43                  HC       HC      
+
+No. of soft repulsion non-bonded pairs =     7
+q-atom_i q-atom_j
+    24         75.00   110.70
+    25        120.00   121.76
+       1        2
+      28       30
+      29       28
+    26        140.00   120.00
+      32       34
+      39       28
+       2       29
+    27        120.00   121.76
+    28        140.00   120.00
+       1       34
+    29         75.00   117.20
+    30         75.00   110.70
+    31        170.00   111.86
+    32        180.00   112.52
+    33         30.00    60.43
+    34        100.00   109.50
+
+Q-bond types:
+type #  Morse E_diss    alpha       b0  Harmonic force_k 
+    35        100.00   114.28
+    36         70.00   109.50
+
+     1                            1.30            666.00
+angle      1487  1490  1492
+angle      1490  1491  1493
+
+No. of changing angles   =    27
+atom_i atom_j atom_k    angle type in state 1 state 2
+     2                            1.30            666.00
+     3                            1.30            666.00
+  4700   4699   4707                        1       0
+  4699   4700   4701                        2       0
+  4699   4700   4707                        3       0
+     4                            1.30            666.00
+     5                            1.30            666.00
+  4699   4700   4714                        4       0
+  4754   4753   4755                        5       0
+  4753   4754   4755                        6       0
+     6                            1.30            666.00
+     7                            1.25           1312.00
+  4753   4755   4754                        6       0
+  1490   1491   1493                        7       0
+  1984   1985   4754                        0       7
+     8                            1.36            900.00
+  4701   4700   4753                        0       8
+  4700   4753   4755                        0       9
+     9                            1.23           1140.00
+    10                            1.49            570.00
+  4707   4700   4753                        0      10
+  4714   4700   4753                        0      11
+  1493   4699   4707                        0      12
+    11                            1.51            634.00
+angle      1981  1984  1986
+  1981   1984   1986                       13      14
+  4701   4700   4707                       15      16
+  4700   4701   4702                       17      18
+    12                            1.51            520.00
+    13                            1.53            536.00
+  4700   4701   4706                       19      20
+  4700   4707   4708                       21      22
+  4700   4707   4720                       23      24
+  4707   4708   4709                       25      26
+    14                            1.09            680.00
+    15                            1.09            680.00
+  4707   4708   4713                       27      28
+  4707   4700   4714                       29      30
+    16                            1.49            570.00
+  4699   4707   4708                       31      32
+  4699   4707   4700                       33      34
+    17                            1.51            634.00
+  4699   4707   4720                       35      36
+  1487   1490   1492                       14      13
+    18                            1.09            680.00
+    19                            1.09            680.00
+    20                            1.43            670.00
+rrd.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    21                            1.41            640.00
+    22                            0.96           1106.00
+    23                            0.94           1106.00
+
+
+rrd.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+No. of changing bonds    =    18
+atom_i atom_j   bond type in state 1 state 2
+  4699   4700                      1       0
+WARNING: Breaking/Forming bond    4699  code    4700  set as harmonic
+WARNING: Breaking/Forming bond       1  code       0  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   22073  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   22073  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       1  code
+between atoms    4699    4700
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4754   4755                      2       0
+WARNING: Breaking/Forming bond    4754  code    4755  set as harmonic
+WARNING: Breaking/Forming bond       2  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       2  code
+between atoms    4754    4755
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4753   4754                      3       0
+WARNING: Breaking/Forming bond    4753  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       3  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       3  code
+between atoms    4753    4754
+
+Q-torsion types:
+type #       force-k     mult    delta
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+     1          0.38     3.00     0.00
+  1491   1493                      4       0
+WARNING: Breaking/Forming bond    1491  code    1493  set as harmonic
+WARNING: Breaking/Forming bond       4  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+     2          0.38     3.00     0.00
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1491    1493
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+     3          0.37     3.00     0.00
+     4          0.37     3.00     0.00
+  1985   4754                      0       4
+WARNING: Breaking/Forming bond    1985  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       0  code       4  set as harmonic
+     5          0.65     1.00     0.00
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1985    4754
+     6          0.15     2.00   180.00
+     7          0.21     3.00     0.00
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  4700   4753                      0       5
+     8          0.65     1.00     0.00
+WARNING: Breaking/Forming bond    4700  code    4753  set as harmonic
+WARNING: Breaking/Forming bond       0  code       5  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       5  code
+     9          0.15     2.00   180.00
+    10          0.21     3.00     0.00
+between atoms    4700    4753
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+    11         -0.64     1.00     0.00
+  1493   4699                      0       6
+WARNING: Breaking/Forming bond    1493  code    4699  set as harmonic
+WARNING: Breaking/Forming bond       0  code       6  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+    12         -0.04     2.00   180.00
+    13          0.20     3.00     0.00
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       6  code
+between atoms    1493    4699
+     2          0.00     0.00     1.30
+    14          0.23     3.00     0.00
+     2                            1.30            666.00
+  1984   1985                      7       8
+    15          1.50     1.00     0.00
+    16          2.45     2.00   180.00
+  1984   1986                      7       9
+  4700   4701                     10      11
+  4700   4707                     12      13
+    17          2.45     2.00   180.00
+  4700   4714                     14      15
+  4707   4708                     16      17
+    18          0.14     2.00   180.00
+    19          0.00     3.00     0.00
+  4707   4720                     18      19
+  4699   4707                     20      21
+    20          0.14     2.00   180.00
+  4753   4755                     22      23
+  1490   1491                      8       7
+    21          0.00     3.00     0.00
+    22          0.32     1.00     0.00
+  1490   1492                      9       7
+    23         -0.12     2.00   180.00
+    24          0.39     3.00     0.00
+    25          1.13     1.00     0.00
+    26         -1.01     2.00   180.00
+    27         -0.12     1.00     0.00
+    28         -0.09     2.00   180.00
+    29          0.21     3.00     0.00
+
+Q-angle types:
+type #       force-k   theta0
+    30          0.19     3.00     0.00
+    31          0.23     3.00     0.00
+     1         30.00    59.15
+     2        170.00   111.86
+angle      4700  4699  4707
+    32          3.75     1.00     0.00
+    33          0.32     1.00     0.00
+     3         30.00    60.43
+     4        100.00   114.28
+angle      4699  4700  4701
+angle      4699  4700  4707
+angle      4699  4700  4714
+angle      4699  4707  4700
+angle      4699  4707  4708
+angle      4699  4707  4720
+angle      4701  4700  4707
+    34         -0.12     2.00   180.00
+    35          0.39     3.00     0.00
+     5        200.00   104.52
+     6          0.00   127.74
+angle      4700  4701  4702
+angle      4700  4701  4706
+angle      4707  4700  4714
+angle      4700  4707  4708
+angle      4700  4707  4720
+angle      4707  4708  4709
+angle      4707  4708  4713
+    36         -0.12     1.00     0.00
+    37         -0.09     2.00   180.00
+     7         70.00   113.00
+     8        180.00   112.52
+     9        110.00   108.50
+angle      4754  4753  4755
+    38          0.21     3.00     0.00
+    39          0.19     3.00     0.00
+    40          0.00     1.00     0.00
+    10        100.00   109.50
+    11         70.00   109.50
+    12        110.00   108.50
+    41          0.00     2.00   180.00
+    13        140.00   117.00
+    14        160.00   120.40
+    42          0.65     1.00     0.00
+    43          0.15     2.00   180.00
+    15        130.00   119.88
+    44          0.21     3.00     0.00
+    16        140.00   112.17
+    17        120.00   121.76
+    45          0.14     2.00   180.00
+    46          0.00     3.00     0.00
+    18        140.00   120.00
+    19        120.00   121.76
+    47          0.65     1.00     0.00
+    20        140.00   120.00
+    48          0.15     2.00   180.00
+    49          0.21     3.00     0.00
+    21        130.00   119.88
+    22        140.00   112.17
+    50          0.14     2.00   180.00
+    23         75.00   117.20
+    24         75.00   110.70
+    51          0.00     3.00     0.00
+    52         -0.64     1.00     0.00
+    25        120.00   121.76
+    26        140.00   120.00
+    53         -0.04     2.00   180.00
+    27        120.00   121.76
+    54          0.20     3.00     0.00
+    55          1.13     1.00     0.00
+    28        140.00   120.00
+    29         75.00   117.20
+    56         -1.01     2.00   180.00
+
+
+No. of changing torsions =    65
+    30         75.00   110.70
+    31        170.00   111.86
+atom_i atom_j atom_k atom_l    torsion type in state 1 state 2
+    32        180.00   112.52
+  4701   4700   4699   4707                          1       0
+    33         30.00    60.43
+    34        100.00   109.50
+  4700   4699   4707   4708                          2       0
+  4700   4699   4707   4720                          3       0
+    35        100.00   114.28
+    36         70.00   109.50
+
+  4707   4699   4700   4714                          4       0
+  4699   4700   4701   4702                          5       0
+
+No. of changing angles   =    27
+atom_i atom_j atom_k    angle type in state 1 state 2
+  4699   4700   4701   4702                          6       0
+  4699   4700   4701   4702                          7       0
+  4699   4700   4701   4706                          8       0
+  4700   4699   4707                        1       0
+  4699   4700   4701                        2       0
+  4699   4700   4701   4706                          9       0
+  4699   4700   4707                        3       0
+  4699   4700   4714                        4       0
+  4699   4700   4701   4706                         10       0
+  4699   4700   4707   4708                         11       0
+  4754   4753   4755                        5       0
+  4753   4754   4755                        6       0
+  4699   4700   4707   4708                         12       0
+  4753   4755   4754                        6       0
+  1490   1491   1493                        7       0
+  4699   4700   4707   4708                         13       0
+  4699   4700   4707   4720                         14       0
+  1984   1985   4754                        0       7
+  4701   4700   4753                        0       8
+  1487   1490   1491   1493                         15       0
+  1487   1490   1491   1493                         16       0
+  4700   4753   4755                        0       9
+  4707   4700   4753                        0      10
+  1492   1490   1491   1493                         17       0
+  4714   4700   4753                        0      11
+  1981   1984   1985   4754                          0      15
+  1981   1984   1985   4754                          0      16
+  1493   4699   4707                        0      12
+  1981   1984   1986                       13      14
+  1986   1984   1985   4754                          0      17
+  4702   4701   4700   4753                          0      18
+  4701   4700   4707                       15      16
+  4700   4701   4702                       17      18
+  4702   4701   4700   4753                          0      19
+  4700   4701   4706                       19      20
+  4700   4707   4708                       21      22
+  4706   4701   4700   4753                          0      20
+  4706   4701   4700   4753                          0      21
+  4700   4707   4720                       23      24
+  4707   4708   4709                       25      26
+  4701   4700   4753   4755                          0      22
+  4701   4700   4753   4755                          0      23
+  4701   4700   4753   4755                          0      24
+  4707   4708   4713                       27      28
+  4707   4700   4714                       29      30
+  4699   4707   4708                       31      32
+  4708   4707   4700   4753                          0      25
+  4699   4707   4700                       33      34
+  4699   4707   4720                       35      36
+  4708   4707   4700   4753                          0      26
+  4707   4700   4753   4755                          0      27
+  1487   1490   1492                       14      13
+  4707   4700   4753   4755                          0      28
+  4707   4700   4753   4755                          0      29
+  4714   4700   4753   4755                          0      30
+  4720   4707   4700   4753                          0      31
+  4699   4707   4700   4753                          0      32
+sto.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  1493   4699   4707   4708                          0      33
+  1493   4699   4707   4708                          0      34
+  1493   4699   4707   4708                          0      35
+  1493   4699   4707   4700                          0      36
+  1493   4699   4707   4700                          0      37
+  1493   4699   4707   4700                          0      38
+  1493   4699   4707   4720                          0      39
+  1982   1981   1984   1986                         40       0
+  1982   1981   1984   1986                          0      41
+  1983   1981   1984   1986                         40       0
+  1983   1981   1984   1986                          0      41
+  4699   4707   4708   4709                         42       0
+  4699   4707   4708   4709                         43       0
+  4699   4707   4708   4709                         44       0
+  4699   4707   4708   4709                          0      45
+rrd.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+  4699   4707   4708   4709                          0      46
+  4699   4707   4708   4713                         47       0
+  4699   4707   4708   4713                         48       0
+  4699   4707   4708   4713                         49       0
+  4699   4707   4708   4713                          0      50
+  4699   4707   4708   4713                          0      51
+  4699   4707   4700   4701                         52       0
+  4699   4707   4700   4701                         53       0
+
+Q-torsion types:
+type #       force-k     mult    delta
+  4699   4707   4700   4701                         54       0
+  4699   4707   4700   4701                          0      55
+     1          0.38     3.00     0.00
+     2          0.38     3.00     0.00
+  4699   4707   4700   4701                          0      56
+     3          0.37     3.00     0.00
+  1488   1487   1490   1492                         41       0
+  1488   1487   1490   1492                          0      40
+     4          0.37     3.00     0.00
+     5          0.65     1.00     0.00
+  1489   1487   1490   1492                         41       0
+  1489   1487   1490   1492                          0      40
+     6          0.15     2.00   180.00
+     7          0.21     3.00     0.00
+     8          0.65     1.00     0.00
+     9          0.15     2.00   180.00
+    10          0.21     3.00     0.00
+    11         -0.64     1.00     0.00
+    12         -0.04     2.00   180.00
+    13          0.20     3.00     0.00
+    14          0.23     3.00     0.00
+    15          1.50     1.00     0.00
+    16          2.45     2.00   180.00
+    17          2.45     2.00   180.00
+    18          0.14     2.00   180.00
+    19          0.00     3.00     0.00
+    20          0.14     2.00   180.00
+    21          0.00     3.00     0.00
+    22          0.32     1.00     0.00
+    23         -0.12     2.00   180.00
+sto.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    24          0.39     3.00     0.00
+    25          1.13     1.00     0.00
+    26         -1.01     2.00   180.00
+sto.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    27         -0.12     1.00     0.00
+    28         -0.09     2.00   180.00
+    29          0.21     3.00     0.00
+rrd.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+
+No. of offdiagonal (Hij) functions =     1
+state_i state_j atom_k atom_l     Aij mu_ij
+    30          0.19     3.00     0.00
+    31          0.23     3.00     0.00
+      1       2     13     14    0.00  0.00
+    32          3.75     1.00     0.00
+    33          0.32     1.00     0.00
+No softcore section found. Using normal LJ potentials.
+    34         -0.12     2.00   180.00
+rrd.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+
+sto.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+    35          0.39     3.00     0.00
+    36         -0.12     1.00     0.00
+    37         -0.09     2.00   180.00
+    38          0.21     3.00     0.00
+sto.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+    39          0.19     3.00     0.00
+    40          0.00     1.00     0.00
+rrd.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+    41          0.00     2.00   180.00
+    42          0.65     1.00     0.00
+sto.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    43          0.15     2.00   180.00
+    44          0.21     3.00     0.00
+rrd.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    45          0.14     2.00   180.00
+sto.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    46          0.00     3.00     0.00
+    47          0.65     1.00     0.00
+rrd.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    48          0.15     2.00   180.00
+    49          0.21     3.00     0.00
+sto.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    50          0.14     2.00   180.00
+    51          0.00     3.00     0.00
+rrd.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    52         -0.64     1.00     0.00
+    53         -0.04     2.00   180.00
+sto.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    54          0.20     3.00     0.00
+    55          1.13     1.00     0.00
+rrd.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+    56         -1.01     2.00   180.00
+
+
+No. of changing torsions =    65
+sto.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+atom_i atom_j atom_k atom_l    torsion type in state 1 state 2
+  4701   4700   4699   4707                          1       0
+rrd.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4700   4699   4707   4708                          2       0
+  4700   4699   4707   4720                          3       0
+sto.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+  4707   4699   4700   4714                          4       0
+  4699   4700   4701   4702                          5       0
+rrd.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+  4699   4700   4701   4702                          6       0
+  4699   4700   4701   4702                          7       0
+sto.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4699   4700   4701   4706                          8       0
+  4699   4700   4701   4706                          9       0
+rrd.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4699   4700   4701   4706                         10       0
+---------------- Removing redefined interactions from topology ---------------
+type      atom1 atom2 atom3 atom4
+sto.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4699   4700   4707   4708                         11       0
+  4699   4700   4707   4708                         12       0
+  4699   4700   4707   4708                         13       0
+  4699   4700   4707   4720                         14       0
+  1487   1490   1491   1493                         15       0
+  1487   1490   1491   1493                         16       0
+torsion    1488  1487  1490  1492
+torsion    1489  1487  1490  1492
+torsion    1487  1490  1491  1493
+torsion    1487  1490  1491  1493
+torsion    1492  1490  1491  1493
+  1492   1490   1491   1493                         17       0
+bond       1490  1491
+bond       1490  1492
+sto.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+bond       1491  1493
+rrd.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+bond       1984  1985
+bond       1984  1986
+  1981   1984   1985   4754                          0      15
+  1981   1984   1985   4754                          0      16
+  1986   1984   1985   4754                          0      17
+  4702   4701   4700   4753                          0      18
+  4702   4701   4700   4753                          0      19
+  4706   4701   4700   4753                          0      20
+rrd.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+  4706   4701   4700   4753                          0      21
+  4701   4700   4753   4755                          0      22
+  4701   4700   4753   4755                          0      23
+  4701   4700   4753   4755                          0      24
+  4708   4707   4700   4753                          0      25
+  4708   4707   4700   4753                          0      26
+  4707   4700   4753   4755                          0      27
+  4707   4700   4753   4755                          0      28
+  4707   4700   4753   4755                          0      29
+rrd.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+bond       4699  4700
+bond       4699  4707
+bond       4700  4701
+bond       4700  4707
+HW            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+  4714   4700   4753   4755                          0      30
+  4720   4707   4700   4753                          0      31
+bond       4700  4714
+bond       4707  4708
+bond       4707  4720
+bond       4753  4754
+bond       4753  4755
+bond       4754  4755
+  4699   4707   4700   4753                          0      32
+  1493   4699   4707   4708                          0      33
+  1493   4699   4707   4708                          0      34
+  1493   4699   4707   4708                          0      35
+  1493   4699   4707   4700                          0      36
+  1493   4699   4707   4700                          0      37
+  1493   4699   4707   4700                          0      38
+HO            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+torsion    1982  1981  1984  1986
+OW          762.89   24.39    1.00  2.50   539.44   17.25   16.00
+rrd.O88     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+  1493   4699   4707   4720                          0      39
+  1982   1981   1984   1986                         40       0
+  1982   1981   1984   1986                          0      41
+  1983   1981   1984   1986                         40       0
+  1983   1981   1984   1986                          0      41
+rrd.H88       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+  4699   4707   4708   4709                         42       0
+  4699   4707   4708   4709                         43       0
+C2         1802.24   34.18    1.00  2.50  1274.38   24.17   12.01
+  4699   4707   4708   4709                         44       0
+  4699   4707   4708   4709                          0      45
+ODE         601.15   22.27    1.00  2.50   425.08   15.75   16.00
+O2          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+  4699   4707   4708   4709                          0      46
+  4699   4707   4708   4713                         47       0
+  4699   4707   4708   4713                         48       0
+  4699   4707   4708   4713                         49       0
+O1          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+  4699   4707   4708   4713                          0      50
+  4699   4707   4708   4713                          0      51
+rrd.H89       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+  4699   4707   4700   4701                         52       0
+  4699   4707   4700   4701                         53       0
+CT          944.52   22.03    1.00  2.50   667.88   15.58   12.01
+HC           84.57    5.41    1.00  2.50    59.80    3.83    1.01
+  4699   4707   4700   4701                         54       0
+  4699   4707   4700   4701                          0      55
+  4699   4707   4700   4701                          0      56
+  1488   1487   1490   1492                         41       0
+torsion    1983  1981  1984  1986
+  1488   1487   1490   1492                          0      40
+
+Assigning Q-atom types to all Q atoms:
+  1489   1487   1490   1492                         41       0
+Q atom    atom type in  state 1  state 2
+     1                  sto.O99  rrd.O99 
+No. of Rcq indep. nb pairs involving q-atoms =  1131 in state :  1
+No. of Rcq indep. nb pairs involving q-atoms =  1128 in state :  2
+
+     2                  sto.C98  rrd.C98 
+     3                  sto.C96  rrd.C96 
+     4                  sto.C1   rrd.C1  
+     5                  sto.C2   rrd.C2  
+     6                  sto.C3   rrd.C3  
+     7                  sto.C4   rrd.C4  
+     8                  sto.C5   rrd.C5  
+     9                  sto.C99  rrd.C99 
+    10                  sto.C97  rrd.C97 
+    11                  sto.C10  rrd.C10 
+    12                  sto.C11  rrd.C11 
+    13                  sto.C12  rrd.C12 
+    14                  sto.C13  rrd.C13 
+    15                  sto.C14  rrd.C14 
+    16                  sto.H98  rrd.H98 
+    17                  sto.H1   rrd.H1  
+    18                  sto.H2   rrd.H2  
+    19                  sto.H3   rrd.H3  
+    20                  sto.H4   rrd.H4  
+    21                  sto.H5   rrd.H5  
+angle      1487  1490  1492
+angle      1490  1491  1493
+    22                  sto.H99  rrd.H99 
+    23                  sto.H10  rrd.H10 
+    24                  sto.H11  rrd.H11 
+    25                  sto.H12  rrd.H12 
+    26                  sto.H13  rrd.H13 
+    27                  sto.H14  rrd.H14 
+    28                  HW       HO      
+    29                  OW       rrd.O88 
+    30                  HW       rrd.H88 
+    31                  C2       C2      
+    32                  ODE      O2      
+    33                  O1       O2      
+    34                  HO       rrd.H89 
+    35                  CT       CT      
+    36                  HC       HC      
+    37                  HC       HC      
+    38                  C2       C2      
+Coordinates for  6024 atoms will be written to the trajectory.
+    39                  O2       ODE     
+    40                  O2       O1      
+    41                  CT       CT      
+    42                  HC       HC      
+    43                  HC       HC      
+
+No. of soft repulsion non-bonded pairs =     7
+q-atom_i q-atom_j
+angle      1981  1984  1986
+       1        2
+      28       30
+      29       28
+      32       34
+      39       28
+       2       29
+       1       34
+  1489   1487   1490   1492                          0      40
+
+Q-bond types:
+type #  Morse E_diss    alpha       b0  Harmonic force_k 
+     1                            1.30            666.00
+     2                            1.30            666.00
+     3                            1.30            666.00
+     4                            1.30            666.00
+     5                            1.30            666.00
+     6                            1.30            666.00
+     7                            1.25           1312.00
+     8                            1.36            900.00
+     9                            1.23           1140.00
+    10                            1.49            570.00
+    11                            1.51            634.00
+
+No. of offdiagonal (Hij) functions =     1
+state_i state_j atom_k atom_l     Aij mu_ij
+      1       2     13     14    0.00  0.00
+    12                            1.51            520.00
+    13                            1.53            536.00
+    14                            1.09            680.00
+    15                            1.09            680.00
+    16                            1.49            570.00
+    17                            1.51            634.00
+No softcore section found. Using normal LJ potentials.
+    18                            1.09            680.00
+    19                            1.09            680.00
+angle      4700  4699  4707
+angle      4699  4700  4701
+angle      4699  4700  4707
+angle      4699  4700  4714
+    20                            1.43            670.00
+angle      4699  4707  4700
+angle      4699  4707  4708
+angle      4699  4707  4720
+angle      4701  4700  4707
+angle      4700  4701  4702
+angle      4700  4701  4706
+angle      4707  4700  4714
+angle      4700  4707  4708
+angle      4700  4707  4720
+angle      4707  4708  4709
+angle      4707  4708  4713
+
+angle      4754  4753  4755
+---------------- Removing redefined interactions from topology ---------------
+type      atom1 atom2 atom3 atom4
+    21                            1.41            640.00
+    22                            0.96           1106.00
+    23                            0.94           1106.00
+
+bond       1490  1491
+
+No. of changing bonds    =    18
+atom_i atom_j   bond type in state 1 state 2
+  4699   4700                      1       0
+WARNING: Breaking/Forming bond    4699  code    4700  set as harmonic
+WARNING: Breaking/Forming bond       1  code       0  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   22080  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   22080  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       1  code
+between atoms    4699    4700
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4754   4755                      2       0
+WARNING: Breaking/Forming bond    4754  code    4755  set as harmonic
+WARNING: Breaking/Forming bond       2  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       2  code
+between atoms    4754    4755
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4753   4754                      3       0
+WARNING: Breaking/Forming bond    4753  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       3  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       3  code
+between atoms    4753    4754
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  1491   1493                      4       0
+WARNING: Breaking/Forming bond    1491  code    1493  set as harmonic
+WARNING: Breaking/Forming bond       4  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1491    1493
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  1985   4754                      0       4
+WARNING: Breaking/Forming bond    1985  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       0  code       4  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1985    4754
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  4700   4753                      0       5
+WARNING: Breaking/Forming bond    4700  code    4753  set as harmonic
+WARNING: Breaking/Forming bond       0  code       5  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       5  code
+between atoms    4700    4753
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  1493   4699                      0       6
+WARNING: Breaking/Forming bond    1493  code    4699  set as harmonic
+WARNING: Breaking/Forming bond       0  code       6  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       6  code
+between atoms    1493    4699
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  1984   1985                      7       8
+  1984   1986                      7       9
+  4700   4701                     10      11
+  4700   4707                     12      13
+  4700   4714                     14      15
+  4707   4708                     16      17
+  4707   4720                     18      19
+  4699   4707                     20      21
+  4753   4755                     22      23
+  1490   1491                      8       7
+  1490   1492                      9       7
+bond       1490  1492
+bond       1491  1493
+
+Q-angle types:
+type #       force-k   theta0
+     1         30.00    59.15
+     2        170.00   111.86
+     3         30.00    60.43
+     4        100.00   114.28
+     5        200.00   104.52
+     6          0.00   127.74
+     7         70.00   113.00
+     8        180.00   112.52
+     9        110.00   108.50
+    10        100.00   109.50
+    11         70.00   109.50
+    12        110.00   108.50
+    13        140.00   117.00
+    14        160.00   120.40
+    15        130.00   119.88
+    16        140.00   112.17
+    17        120.00   121.76
+    18        140.00   120.00
+    19        120.00   121.76
+    20        140.00   120.00
+    21        130.00   119.88
+    22        140.00   112.17
+    23         75.00   117.20
+    24         75.00   110.70
+    25        120.00   121.76
+    26        140.00   120.00
+    27        120.00   121.76
+    28        140.00   120.00
+    29         75.00   117.20
+    30         75.00   110.70
+    31        170.00   111.86
+    32        180.00   112.52
+    33         30.00    60.43
+    34        100.00   109.50
+    35        100.00   114.28
+    36         70.00   109.50
+
+
+No. of changing angles   =    27
+atom_i atom_j atom_k    angle type in state 1 state 2
+  4700   4699   4707                        1       0
+  4699   4700   4701                        2       0
+bond       1984  1985
+bond       1984  1986
+  4699   4700   4707                        3       0
+  4699   4700   4714                        4       0
+  4754   4753   4755                        5       0
+  4753   4754   4755                        6       0
+  4753   4755   4754                        6       0
+  1490   1491   1493                        7       0
+  1984   1985   4754                        0       7
+  4701   4700   4753                        0       8
+  4700   4753   4755                        0       9
+  4707   4700   4753                        0      10
+bond       4699  4700
+bond       4699  4707
+bond       4700  4701
+bond       4700  4707
+bond       4700  4714
+bond       4707  4708
+bond       4707  4720
+bond       4753  4754
+bond       4753  4755
+bond       4754  4755
+  4714   4700   4753                        0      11
+  1493   4699   4707                        0      12
+  1981   1984   1986                       13      14
+  4701   4700   4707                       15      16
+  4700   4701   4702                       17      18
+  4700   4701   4706                       19      20
+  4700   4707   4708                       21      22
+  4700   4707   4720                       23      24
+  4707   4708   4709                       25      26
+  4707   4708   4713                       27      28
+  4707   4700   4714                       29      30
+  4699   4707   4708                       31      32
+  4699   4707   4700                       33      34
+  4699   4707   4720                       35      36
+  1487   1490   1492                       14      13
+angle      1487  1490  1492
+angle      1490  1491  1493
+
+angle      1981  1984  1986
+Q-torsion types:
+type #       force-k     mult    delta
+torsion    1488  1487  1490  1492
+torsion    1489  1487  1490  1492
+torsion    1487  1490  1491  1493
+torsion    1487  1490  1491  1493
+torsion    1492  1490  1491  1493
+     1          0.38     3.00     0.00
+     2          0.38     3.00     0.00
+     3          0.37     3.00     0.00
+     4          0.37     3.00     0.00
+     5          0.65     1.00     0.00
+torsion    4707  4699  4700  4701
+torsion    4707  4699  4700  4714
+     6          0.15     2.00   180.00
+torsion    4700  4699  4707  4708
+torsion    4700  4699  4707  4720
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4720
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4699  4707  4708  4709
+     7          0.21     3.00     0.00
+     8          0.65     1.00     0.00
+     9          0.15     2.00   180.00
+    10          0.21     3.00     0.00
+    11         -0.64     1.00     0.00
+    12         -0.04     2.00   180.00
+    13          0.20     3.00     0.00
+    14          0.23     3.00     0.00
+    15          1.50     1.00     0.00
+    16          2.45     2.00   180.00
+    17          2.45     2.00   180.00
+    18          0.14     2.00   180.00
+    19          0.00     3.00     0.00
+    20          0.14     2.00   180.00
+    21          0.00     3.00     0.00
+    22          0.32     1.00     0.00
+    23         -0.12     2.00   180.00
+    24          0.39     3.00     0.00
+    25          1.13     1.00     0.00
+    26         -1.01     2.00   180.00
+    27         -0.12     1.00     0.00
+    28         -0.09     2.00   180.00
+    29          0.21     3.00     0.00
+    30          0.19     3.00     0.00
+    31          0.23     3.00     0.00
+    32          3.75     1.00     0.00
+    33          0.32     1.00     0.00
+    34         -0.12     2.00   180.00
+    35          0.39     3.00     0.00
+    36         -0.12     1.00     0.00
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4713
+    37         -0.09     2.00   180.00
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+    38          0.21     3.00     0.00
+
+---------------------------- Initialising dynamics ---------------------------
+torsion    1982  1981  1984  1986
+torsion    1983  1981  1984  1986
+    39          0.19     3.00     0.00
+    40          0.00     1.00     0.00
+    41          0.00     2.00   180.00
+    42          0.65     1.00     0.00
+    43          0.15     2.00   180.00
+    44          0.21     3.00     0.00
+    45          0.14     2.00   180.00
+    46          0.00     3.00     0.00
+angle      4700  4699  4707
+angle      4699  4700  4701
+angle      4699  4700  4707
+angle      4699  4700  4714
+angle      4699  4707  4700
+    47          0.65     1.00     0.00
+    48          0.15     2.00   180.00
+angle      4699  4707  4708
+angle      4699  4707  4720
+angle      4701  4700  4707
+angle      4700  4701  4702
+angle      4700  4701  4706
+angle      4707  4700  4714
+    49          0.21     3.00     0.00
+    50          0.14     2.00   180.00
+angle      4700  4707  4708
+angle      4700  4707  4720
+angle      4707  4708  4709
+angle      4707  4708  4713
+    51          0.00     3.00     0.00
+    52         -0.64     1.00     0.00
+angle      4754  4753  4755
+    53         -0.04     2.00   180.00
+    54          0.20     3.00     0.00
+    55          1.13     1.00     0.00
+    56         -1.01     2.00   180.00
+
+
+No. of changing torsions =    65
+atom_i atom_j atom_k atom_l    torsion type in state 1 state 2
+  4701   4700   4699   4707                          1       0
+Total charge of non-Q atoms             =      -5.34
+  4700   4699   4707   4708                          2       0
+  4700   4699   4707   4720                          3       0
+  4707   4699   4700   4714                          4       0
+  4699   4700   4701   4702                          5       0
+  4699   4700   4701   4702                          6       0
+  4699   4700   4701   4702                          7       0
+  4699   4700   4701   4706                          8       0
+  4699   4700   4701   4706                          9       0
+  4699   4700   4701   4706                         10       0
+  4699   4700   4707   4708                         11       0
+  4699   4700   4707   4708                         12       0
+  4699   4700   4707   4708                         13       0
+  4699   4700   4707   4720                         14       0
+  1487   1490   1491   1493                         15       0
+  1487   1490   1491   1493                         16       0
+  1492   1490   1491   1493                         17       0
+  1981   1984   1985   4754                          0      15
+  1981   1984   1985   4754                          0      16
+  1986   1984   1985   4754                          0      17
+  4702   4701   4700   4753                          0      18
+  4702   4701   4700   4753                          0      19
+  4706   4701   4700   4753                          0      20
+  4706   4701   4700   4753                          0      21
+  4701   4700   4753   4755                          0      22
+  4701   4700   4753   4755                          0      23
+  4701   4700   4753   4755                          0      24
+  4708   4707   4700   4753                          0      25
+  4708   4707   4700   4753                          0      26
+  4707   4700   4753   4755                          0      27
+  4707   4700   4753   4755                          0      28
+  4707   4700   4753   4755                          0      29
+  4714   4700   4753   4755                          0      30
+  4720   4707   4700   4753                          0      31
+  4699   4707   4700   4753                          0      32
+  1493   4699   4707   4708                          0      33
+  1493   4699   4707   4708                          0      34
+  1493   4699   4707   4708                          0      35
+  1493   4699   4707   4700                          0      36
+  1493   4699   4707   4700                          0      37
   1493   4699   4707   4700                          0      38
   1493   4699   4707   4720                          0      39
   1982   1981   1984   1986                         40       0
@@ -535,14 +3387,756 @@ atom_i atom_j atom_k atom_l    torsion type in state 1 state 2
   1488   1487   1490   1492                          0      40
   1489   1487   1490   1492                         41       0
   1489   1487   1490   1492                          0      40
+Total charge of excluded atoms          =      -0.66
+Total charge of system                  =      -6.34
+Target water sphere radius              =      19.62
+Surface inward harmonic force constant  =      60.00
+Surface attraction well depth           =       0.85
+Surface attraction well width           =       0.48
+Water polarisation restraints           : ON, Born correction enabled
+Radial polarisation force constant      =      20.00
+
+Setting up 3 water shells for polarisation restraints.
+Shell #    outer radius    inner radius
+      1           19.62           19.12
+      2           19.12           18.12
+      3           18.12           16.62
 
 No. of offdiagonal (Hij) functions =     1
 state_i state_j atom_k atom_l     Aij mu_ij
-      1       2     13     14    1.00  0.45
+      1       2     13     14    0.00  0.00
 No softcore section found. Using normal LJ potentials.
 
 ---------------- Removing redefined interactions from topology ---------------
 type      atom1 atom2 atom3 atom4
+
+Number of shake constraints             =          0
+No. molecules with shake constraints    =          1
+bond       1490  1491
+bond       1490  1492
+bond       1491  1493
+bond       1984  1985
+bond       1984  1986
+bond       4699  4700
+bond       4699  4707
+bond       4700  4701
+bond       4700  4707
+bond       4700  4714
+torsion    1488  1487  1490  1492
+bond       4707  4708
+bond       4707  4720
+bond       4753  4754
+bond       4753  4755
+bond       4754  4755
+torsion    1489  1487  1490  1492
+torsion    1487  1490  1491  1493
+torsion    1487  1490  1491  1493
+torsion    1492  1490  1491  1493
+angle      1487  1490  1492
+angle      1490  1491  1493
+torsion    1982  1981  1984  1986
+torsion    1983  1981  1984  1986
+angle      1981  1984  1986
+Initial x-constraint required   0 iterations per molecule on average.
+angle      4700  4699  4707
+angle      4699  4700  4701
+angle      4699  4700  4707
+angle      4699  4700  4714
+angle      4699  4707  4700
+angle      4699  4707  4708
+angle      4699  4707  4720
+angle      4701  4700  4707
+angle      4700  4701  4702
+angle      4700  4701  4706
+angle      4707  4700  4714
+angle      4700  4707  4708
+angle      4700  4707  4720
+angle      4707  4708  4709
+Initial v-constraint required   0 iterations per molecule on average.
+angle      4707  4708  4713
+angle      4754  4753  4755
+torsion    4707  4699  4700  4701
+torsion    4707  4699  4700  4714
+torsion    4700  4699  4707  4708
+torsion    4700  4699  4707  4720
+torsion    4699  4700  4701  4702
+------------------------ Distribution of charge groups -----------------------
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4720
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+
+---------------------------- Initialising dynamics ---------------------------
+Total charge of non-Q atoms             =      -5.34
+Total charge of excluded atoms          =      -0.66
+Total charge of system                  =      -6.34
+Target water sphere radius              =      19.62
+Surface inward harmonic force constant  =      60.00
+Surface attraction well depth           =       0.85
+Surface attraction well width           =       0.48
+Water polarisation restraints           : ON, Born correction enabled
+Radial polarisation force constant      =      20.00
+
+Setting up 3 water shells for polarisation restraints.
+Shell #    outer radius    inner radius
+      1           19.62           19.12
+      2           19.12           18.12
+      3           18.12           16.62
+
+Number of shake constraints             =          0
+No. molecules with shake constraints    =          1
+torsion    1488  1487  1490  1492
+torsion    1489  1487  1490  1492
+torsion    1487  1490  1491  1493
+torsion    1487  1490  1491  1493
+torsion    1492  1490  1491  1493
+torsion    1982  1981  1984  1986
+torsion    1983  1981  1984  1986
+torsion    4707  4699  4700  4701
+torsion    4707  4699  4700  4714
+torsion    4700  4699  4707  4708
+torsion    4700  4699  4707  4720
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4720
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+
+No. of long-range excls =          0
+---------------------------- Initialising dynamics ---------------------------
+Total charge of non-Q atoms             =      -5.34
+Total charge of excluded atoms          =      -0.66
+Total charge of system                  =      -6.34
+Target water sphere radius              =      19.62
+Surface inward harmonic force constant  =      60.00
+Surface attraction well depth           =       0.85
+Surface attraction well width           =       0.48
+Water polarisation restraints           : ON, Born correction enabled
+Radial polarisation force constant      =      20.00
+
+Setting up 3 water shells for polarisation restraints.
+Shell #    outer radius    inner radius
+      1           19.62           19.12
+      2           19.12           18.12
+      3           18.12           16.62
+No. of residues         =        725
+No of solute residues   =        302
+
+No. of molecules        =        428
+Number of shake constraints             =          0
+Atom type names         =        111
+No. molecules with shake constraints    =          1
+SYBYL atom types        =        111
+Boundary: sphere
+Exclusion radius        =     20.000
+Eff. solvent radius     =     19.620
+Solvent density         =   0.03350000
+Solute centre           =      8.301    -6.381    -2.992
+Solvent centre          =      8.301    -6.381    -2.992
+No. of excluded atoms   =       2491
+Molecular topology read successfully.
+
+Found      539 solute atoms in the restrained shell region ( 17.00 to  20.00)
+----------------------------- Reading Q atom list ----------------------------
+torsion    4707  4699  4700  4701
+torsion    4707  4699  4700  4714
+torsion    4700  4699  4707  4708
+torsion    4700  4699  4707  4720
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4702
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4701  4706
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4708
+torsion    4699  4700  4707  4720
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4701  4700  4707  4699
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4709
+torsion    4699  4707  4708  4713
+No. of fep/evb states    =     2
+torsion    4699  4707  4708  4713
+torsion    4699  4707  4708  4713
+No. of fep/evb atoms     =    43
+
+Atom nos.:  4699  4700  4701  4702  4703  4704  4705  4706  4707  4708
+Atom nos.:  4709  4710  4711  4712  4713  4714  4715  4716  4717  4718
+Atom nos.:  4719  4720  4721  4722  4723  4724  4725  4754  4753  4755
+Atom nos.:  1490  1491  1492  1493  1487  1488  1489  1984  1985  1986
+Atom nos.:  1981  1982  1983
+---------------------------- Initialising dynamics ---------------------------
+Total charge of non-Q atoms             =      -5.34
+Total charge of excluded atoms          =      -0.66
+Total charge of system                  =      -6.34
+No. of Rcq indep. nb pairs involving q-atoms =  1131 in state :  1
+Target water sphere radius              =      19.62
+Surface inward harmonic force constant  =      60.00
+Surface attraction well depth           =       0.85
+Surface attraction well width           =       0.48
+Water polarisation restraints           : ON, Born correction enabled
+Radial polarisation force constant      =      20.00
+No. of Rcq indep. nb pairs involving q-atoms =  1128 in state :  2
+
+
+Setting up 3 water shells for polarisation restraints.
+Shell #    outer radius    inner radius
+      1           19.62           19.12
+      2           19.12           18.12
+      3           18.12           16.62
+Coordinates for  6024 atoms will be written to the trajectory.
+
+Number of shake constraints             =          0
+No. molecules with shake constraints    =          1
+--------------------------- Reading fep/evb strategy --------------------------
+
+No. of changing charges  =    43
+Effective Q-atom charges for all Q-atoms
+Q atom    charge in state 1 state 2
+     1               -0.249  -0.708
+     2               -0.109   0.369
+     3                0.228  -0.046
+     4               -0.215  -0.148
+     5               -0.124  -0.158
+     6               -0.175  -0.123
+     7               -0.124  -0.158
+     8               -0.215  -0.148
+     9               -0.109   0.368
+    10                0.227  -0.046
+    11               -0.215  -0.148
+    12               -0.124  -0.158
+    13               -0.175  -0.123
+    14               -0.124  -0.158
+    15               -0.215  -0.148
+    16                0.133  -0.002
+    17                0.147   0.150
+    18                0.143   0.138
+    19                0.146   0.133
+    20                0.143   0.138
+    21                0.147   0.150
+    22                0.133  -0.003
+    23                0.147   0.150
+    24                0.143   0.138
+    25                0.146   0.133
+    26                0.143   0.138
+    27                0.147   0.150
+    28                0.417   0.450
+    29               -0.834  -0.709
+    30                0.417   0.414
+    31                0.520   0.700
+    32               -0.530  -0.800
+    33               -0.440  -0.800
+    34                0.450   0.415
+    35               -0.120  -0.220
+    36                0.060   0.060
+    37                0.060   0.060
+    38                0.700   0.520
+    39               -0.800  -0.530
+    40               -0.800  -0.440
+    41               -0.220  -0.120
+    42                0.060   0.060
+    43                0.060   0.060
+
+   SUM               -1.000  -1.000
+
+No. of Q-atom types  =    66
+Name            Ai      Bi      Ci     ai Ai(1-4) Bi(1-4)    Mass
+sto.O99     445.12   18.25    1.00  2.50   314.75   12.91   16.00
+rrd.O99     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+sto.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.C98     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+sto.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C96    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C1     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C2     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C3     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C4     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C5     1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+rrd.C99     944.52   22.03    1.00  2.50   667.88   15.58   12.01
+sto.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C97    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C10    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C11    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C12    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C13    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+rrd.C14    1059.13   23.67    1.00  2.50   748.92   16.74   12.01
+sto.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+rrd.H98      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+sto.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H1       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H2       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H3       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H4       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H5       69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+rrd.H99      84.57    5.41    1.00  2.50    59.80    3.83    1.01
+sto.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H10      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H11      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H12      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H13      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+sto.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+rrd.H14      69.58    4.91    1.00  2.50    49.20    3.47    1.01
+HW            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+HO            0.00    0.00    1.00  2.50     0.00    0.00    1.01
+OW          762.89   24.39    1.00  2.50   539.44   17.25   16.00
+rrd.O88     760.64   25.04    1.00  2.50   537.86   17.71   16.00
+rrd.H88       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+C2         1802.24   34.18    1.00  2.50  1274.38   24.17   12.01
+ODE         601.15   22.27    1.00  2.50   425.08   15.75   16.00
+O2          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+O1          616.44   23.77    1.00  2.50   435.89   16.81   16.00
+rrd.H89       0.01    0.04    1.00  2.50     0.00    0.03    1.01
+CT          944.52   22.03    1.00  2.50   667.88   15.58   12.01
+HC           84.57    5.41    1.00  2.50    59.80    3.83    1.01
+
+Assigning Q-atom types to all Q atoms:
+Q atom    atom type in  state 1  state 2
+     1                  sto.O99  rrd.O99 
+     2                  sto.C98  rrd.C98 
+     3                  sto.C96  rrd.C96 
+     4                  sto.C1   rrd.C1  
+     5                  sto.C2   rrd.C2  
+     6                  sto.C3   rrd.C3  
+     7                  sto.C4   rrd.C4  
+     8                  sto.C5   rrd.C5  
+     9                  sto.C99  rrd.C99 
+    10                  sto.C97  rrd.C97 
+    11                  sto.C10  rrd.C10 
+    12                  sto.C11  rrd.C11 
+    13                  sto.C12  rrd.C12 
+    14                  sto.C13  rrd.C13 
+    15                  sto.C14  rrd.C14 
+    16                  sto.H98  rrd.H98 
+    17                  sto.H1   rrd.H1  
+    18                  sto.H2   rrd.H2  
+    19                  sto.H3   rrd.H3  
+    20                  sto.H4   rrd.H4  
+    21                  sto.H5   rrd.H5  
+    22                  sto.H99  rrd.H99 
+    23                  sto.H10  rrd.H10 
+    24                  sto.H11  rrd.H11 
+    25                  sto.H12  rrd.H12 
+    26                  sto.H13  rrd.H13 
+    27                  sto.H14  rrd.H14 
+    28                  HW       HO      
+    29                  OW       rrd.O88 
+    30                  HW       rrd.H88 
+    31                  C2       C2      
+    32                  ODE      O2      
+    33                  O1       O2      
+    34                  HO       rrd.H89 
+    35                  CT       CT      
+    36                  HC       HC      
+    37                  HC       HC      
+    38                  C2       C2      
+    39                  O2       ODE     
+    40                  O2       O1      
+    41                  CT       CT      
+    42                  HC       HC      
+    43                  HC       HC      
+
+No. of Rcq indep. nb pairs involving q-atoms =  1131 in state :  1
+No. of Rcq indep. nb pairs involving q-atoms =  1128 in state :  2
+
+No. of soft repulsion non-bonded pairs =     7
+q-atom_i q-atom_j
+       1        2
+      28       30
+      29       28
+      32       34
+      39       28
+       2       29
+       1       34
+Coordinates for  6024 atoms will be written to the trajectory.
+
+Q-bond types:
+type #  Morse E_diss    alpha       b0  Harmonic force_k 
+     1                            1.30            666.00
+     2                            1.30            666.00
+     3                            1.30            666.00
+     4                            1.30            666.00
+     5                            1.30            666.00
+     6                            1.30            666.00
+     7                            1.25           1312.00
+     8                            1.36            900.00
+     9                            1.23           1140.00
+    10                            1.49            570.00
+    11                            1.51            634.00
+    12                            1.51            520.00
+    13                            1.53            536.00
+    14                            1.09            680.00
+    15                            1.09            680.00
+    16                            1.49            570.00
+    17                            1.51            634.00
+    18                            1.09            680.00
+    19                            1.09            680.00
+    20                            1.43            670.00
+    21                            1.41            640.00
+    22                            0.96           1106.00
+    23                            0.94           1106.00
+
+
+No. of changing bonds    =    18
+atom_i atom_j   bond type in state 1 state 2
+  4699   4700                      1       0
+WARNING: Breaking/Forming bond    4699  code    4700  set as harmonic
+WARNING: Breaking/Forming bond       1  code       0  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21893  set as harmonic
+WARNING: Breaking/Forming bond  ******  code   21893  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       1  code
+between atoms    4699    4700
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4754   4755                      2       0
+WARNING: Breaking/Forming bond    4754  code    4755  set as harmonic
+WARNING: Breaking/Forming bond       2  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       2  code
+between atoms    4754    4755
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  4753   4754                      3       0
+WARNING: Breaking/Forming bond    4753  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       3  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       3  code
+between atoms    4753    4754
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  1491   1493                      4       0
+No. of Rcq indep. nb pairs involving q-atoms =  1131 in state :  1
+No. of Rcq indep. nb pairs involving q-atoms =  1128 in state :  2
+
+WARNING: Breaking/Forming bond    1491  code    1493  set as harmonic
+WARNING: Breaking/Forming bond       4  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1491    1493
+Initial x-constraint required   0 iterations per molecule on average.
+Coordinates for  6024 atoms will be written to the trajectory.
+     1          0.00     0.00     1.30
+     1                            1.30            666.00
+  1985   4754                      0       4
+WARNING: Breaking/Forming bond    1985  code    4754  set as harmonic
+WARNING: Breaking/Forming bond       0  code       4  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       4  code
+between atoms    1985    4754
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+Initial v-constraint required   0 iterations per molecule on average.
+  4700   4753                      0       5
+WARNING: Breaking/Forming bond    4700  code    4753  set as harmonic
+WARNING: Breaking/Forming bond       0  code       5  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       5  code
+between atoms    4700    4753
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  1493   4699                      0       6
+WARNING: Breaking/Forming bond    1493  code    4699  set as harmonic
+WARNING: Breaking/Forming bond       0  code       6  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       0  code       0  set as harmonic
+WARNING: Breaking/Forming bond       6  code
+between atoms    1493    4699
+     2          0.00     0.00     1.30
+     2                            1.30            666.00
+  1984   1985                      7       8
+  1984   1986                      7       9
+  4700   4701                     10      11
+  4700   4707                     12      13
+  4700   4714                     14      15
+  4707   4708                     16      17
+  4707   4720                     18      19
+  4699   4707                     20      21
+  4753   4755                     22      23
+  1490   1491                      8       7
+  1490   1492                      9       7
+
+Q-angle types:
+type #       force-k   theta0
+     1         30.00    59.15
+     2        170.00   111.86
+     3         30.00    60.43
+     4        100.00   114.28
+     5        200.00   104.52
+     6          0.00   127.74
+     7         70.00   113.00
+     8        180.00   112.52
+     9        110.00   108.50
+    10        100.00   109.50
+    11         70.00   109.50
+    12        110.00   108.50
+    13        140.00   117.00
+    14        160.00   120.40
+    15        130.00   119.88
+------------------------ Distribution of charge groups -----------------------
+    16        140.00   112.17
+    17        120.00   121.76
+    18        140.00   120.00
+    19        120.00   121.76
+    20        140.00   120.00
+    21        130.00   119.88
+    22        140.00   112.17
+    23         75.00   117.20
+    24         75.00   110.70
+    25        120.00   121.76
+    26        140.00   120.00
+    27        120.00   121.76
+    28        140.00   120.00
+    29         75.00   117.20
+    30         75.00   110.70
+    31        170.00   111.86
+    32        180.00   112.52
+    33         30.00    60.43
+    34        100.00   109.50
+    35        100.00   114.28
+    36         70.00   109.50
+
+
+No. of changing angles   =    27
+atom_i atom_j atom_k    angle type in state 1 state 2
+  4700   4699   4707                        1       0
+  4699   4700   4701                        2       0
+  4699   4700   4707                        3       0
+  4699   4700   4714                        4       0
+  4754   4753   4755                        5       0
+  4753   4754   4755                        6       0
+  4753   4755   4754                        6       0
+  1490   1491   1493                        7       0
+  1984   1985   4754                        0       7
+  4701   4700   4753                        0       8
+  4700   4753   4755                        0       9
+  4707   4700   4753                        0      10
+  4714   4700   4753                        0      11
+  1493   4699   4707                        0      12
+  1981   1984   1986                       13      14
+  4701   4700   4707                       15      16
+  4700   4701   4702                       17      18
+  4700   4701   4706                       19      20
+  4700   4707   4708                       21      22
+  4700   4707   4720                       23      24
+  4707   4708   4709                       25      26
+  4707   4708   4713                       27      28
+  4707   4700   4714                       29      30
+  4699   4707   4708                       31      32
+  4699   4707   4700                       33      34
+  4699   4707   4720                       35      36
+  1487   1490   1492                       14      13
+
+Q-torsion types:
+type #       force-k     mult    delta
+     1          0.38     3.00     0.00
+     2          0.38     3.00     0.00
+     3          0.37     3.00     0.00
+     4          0.37     3.00     0.00
+     5          0.65     1.00     0.00
+     6          0.15     2.00   180.00
+     7          0.21     3.00     0.00
+     8          0.65     1.00     0.00
+     9          0.15     2.00   180.00
+    10          0.21     3.00     0.00
+    11         -0.64     1.00     0.00
+    12         -0.04     2.00   180.00
+    13          0.20     3.00     0.00
+    14          0.23     3.00     0.00
+    15          1.50     1.00     0.00
+    16          2.45     2.00   180.00
+    17          2.45     2.00   180.00
+    18          0.14     2.00   180.00
+    19          0.00     3.00     0.00
+    20          0.14     2.00   180.00
+    21          0.00     3.00     0.00
+    22          0.32     1.00     0.00
+    23         -0.12     2.00   180.00
+    24          0.39     3.00     0.00
+    25          1.13     1.00     0.00
+    26         -1.01     2.00   180.00
+    27         -0.12     1.00     0.00
+    28         -0.09     2.00   180.00
+    29          0.21     3.00     0.00
+    30          0.19     3.00     0.00
+    31          0.23     3.00     0.00
+    32          3.75     1.00     0.00
+    33          0.32     1.00     0.00
+    34         -0.12     2.00   180.00
+    35          0.39     3.00     0.00
+    36         -0.12     1.00     0.00
+    37         -0.09     2.00   180.00
+    38          0.21     3.00     0.00
+    39          0.19     3.00     0.00
+    40          0.00     1.00     0.00
+    41          0.00     2.00   180.00
+    42          0.65     1.00     0.00
+    43          0.15     2.00   180.00
+    44          0.21     3.00     0.00
+    45          0.14     2.00   180.00
+    46          0.00     3.00     0.00
+    47          0.65     1.00     0.00
+    48          0.15     2.00   180.00
+    49          0.21     3.00     0.00
+    50          0.14     2.00   180.00
+    51          0.00     3.00     0.00
+    52         -0.64     1.00     0.00
+    53         -0.04     2.00   180.00
+    54          0.20     3.00     0.00
+    55          1.13     1.00     0.00
+    56         -1.01     2.00   180.00
+
+
+No. of changing torsions =    65
+atom_i atom_j atom_k atom_l    torsion type in state 1 state 2
+  4701   4700   4699   4707                          1       0
+  4700   4699   4707   4708                          2       0
+  4700   4699   4707   4720                          3       0
+  4707   4699   4700   4714                          4       0
+  4699   4700   4701   4702                          5       0
+No. of Rcq indep. nb pairs involving q-atoms =  1131 in state :  1
+  4699   4700   4701   4702                          6       0
+  4699   4700   4701   4702                          7       0
+  4699   4700   4701   4706                          8       0
+  4699   4700   4701   4706                          9       0
+  4699   4700   4701   4706                         10       0
+  4699   4700   4707   4708                         11       0
+  4699   4700   4707   4708                         12       0
+  4699   4700   4707   4708                         13       0
+  4699   4700   4707   4720                         14       0
+  1487   1490   1491   1493                         15       0
+  1487   1490   1491   1493                         16       0
+  1492   1490   1491   1493                         17       0
+  1981   1984   1985   4754                          0      15
+  1981   1984   1985   4754                          0      16
+  1986   1984   1985   4754                          0      17
+  4702   4701   4700   4753                          0      18
+  4702   4701   4700   4753                          0      19
+  4706   4701   4700   4753                          0      20
+  4706   4701   4700   4753                          0      21
+  4701   4700   4753   4755                          0      22
+  4701   4700   4753   4755                          0      23
+  4701   4700   4753   4755                          0      24
+  4708   4707   4700   4753                          0      25
+  4708   4707   4700   4753                          0      26
+  4707   4700   4753   4755                          0      27
+  4707   4700   4753   4755                          0      28
+  4707   4700   4753   4755                          0      29
+  4714   4700   4753   4755                          0      30
+  4720   4707   4700   4753                          0      31
+  4699   4707   4700   4753                          0      32
+  1493   4699   4707   4708                          0      33
+  1493   4699   4707   4708                          0      34
+  1493   4699   4707   4708                          0      35
+  1493   4699   4707   4700                          0      36
+  1493   4699   4707   4700                          0      37
+  1493   4699   4707   4700                          0      38
+  1493   4699   4707   4720                          0      39
+  1982   1981   1984   1986                         40       0
+  1982   1981   1984   1986                          0      41
+  1983   1981   1984   1986                         40       0
+  1983   1981   1984   1986                          0      41
+  4699   4707   4708   4709                         42       0
+  4699   4707   4708   4709                         43       0
+  4699   4707   4708   4709                         44       0
+  4699   4707   4708   4709                          0      45
+  4699   4707   4708   4709                          0      46
+  4699   4707   4708   4713                         47       0
+  4699   4707   4708   4713                         48       0
+  4699   4707   4708   4713                         49       0
+  4699   4707   4708   4713                          0      50
+  4699   4707   4708   4713                          0      51
+  4699   4707   4700   4701                         52       0
+  4699   4707   4700   4701                         53       0
+  4699   4707   4700   4701                         54       0
+  4699   4707   4700   4701                          0      55
+  4699   4707   4700   4701                          0      56
+  1488   1487   1490   1492                         41       0
+  1488   1487   1490   1492                          0      40
+  1489   1487   1490   1492                         41       0
+  1489   1487   1490   1492                          0      40
+No. of Rcq indep. nb pairs involving q-atoms =  1128 in state :  2
+
+Initial x-constraint required   0 iterations per molecule on average.
+Coordinates for  6024 atoms will be written to the trajectory.
+
+No. of offdiagonal (Hij) functions =     1
+state_i state_j atom_k atom_l     Aij mu_ij
+      1       2     13     14    0.00  0.00
+No softcore section found. Using normal LJ potentials.
+Initial v-constraint required   0 iterations per molecule on average.
+
+---------------- Removing redefined interactions from topology ---------------
+type      atom1 atom2 atom3 atom4
+------------------------ Distribution of charge groups -----------------------
 bond       1490  1491
 bond       1490  1492
 bond       1491  1493
@@ -558,9 +4152,12 @@ bond       4707  4720
 bond       4753  4754
 bond       4753  4755
 bond       4754  4755
+Initial x-constraint required   0 iterations per molecule on average.
 angle      1487  1490  1492
 angle      1490  1491  1493
+Initial v-constraint required   0 iterations per molecule on average.
 angle      1981  1984  1986
+------------------------ Distribution of charge groups -----------------------
 angle      4700  4699  4707
 angle      4699  4700  4701
 angle      4699  4700  4707
@@ -584,6 +4181,9 @@ torsion    1487  1490  1491  1493
 torsion    1492  1490  1491  1493
 torsion    1982  1981  1984  1986
 torsion    1983  1981  1984  1986
+Initial x-constraint required   0 iterations per molecule on average.
+Initial v-constraint required   0 iterations per molecule on average.
+------------------------ Distribution of charge groups -----------------------
 torsion    4707  4699  4700  4701
 torsion    4707  4699  4700  4714
 torsion    4700  4699  4707  4708
@@ -624,25 +4224,78 @@ Shell #    outer radius    inner radius
       1           19.62           19.12
       2           19.12           18.12
       3           18.12           16.62
->>>> ERROR: Charge group  303 is too large for cut-off of    5.000
->>>> ERROR: Switch atom is 1268
->>>> ERROR: Charge group maximum distance is    4.532
->>>> ERROR: Charge group  507 is too large for cut-off of    5.000
->>>> ERROR: Switch atom is 2076
->>>> ERROR: Charge group maximum distance is    4.539
->>>> ERROR: Charge group  558 is too large for cut-off of    5.000
->>>> ERROR: Switch atom is 2255
->>>> ERROR: Charge group maximum distance is    4.363
->>>> ERROR: Charge group  664 is too large for cut-off of    5.000
->>>> ERROR: Switch atom is 4339
->>>> ERROR: Charge group maximum distance is    4.537
->>>> ERROR: Charge group  671 is too large for cut-off of    5.000
->>>> ERROR: Switch atom is 4518
->>>> ERROR: Charge group maximum distance is    4.524
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ABNORMAL TERMINATION !!!!!!!!!!!!!!!!!!!!!!!!!!!!
- restart file written at step           0
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-ABNORMAL TERMINATION of Q
-Terminating due to Too large charge group
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Number of shake constraints             =          0
+No. molecules with shake constraints    =          1
+No. of Rcq indep. nb pairs involving q-atoms =  1131 in state :  1
+No. of Rcq indep. nb pairs involving q-atoms =  1128 in state :  2
+
+Coordinates for  6024 atoms will be written to the trajectory.
+Initial x-constraint required   0 iterations per molecule on average.
+Initial v-constraint required   0 iterations per molecule on average.
+------------------------ Distribution of charge groups -----------------------
+node value solute-solute solute-water  water-water     Q-solute      Q-water       #Shake       #Atoms   #Molecules
+     total           675          675          423          675          423            1         6024          428
+----------------------------- End of distribution ----------------------------
+node value solute-solute solute-water  water-water     Q-solute      Q-water       #Shake       #Atoms   #Molecules
+     total           675          675          423          675          423            1         6024          428
+----------------------------- End of distribution ----------------------------
+node value solute-solute solute-water  water-water     Q-solute      Q-water       #Shake       #Atoms   #Molecules
+     total           675          675          423          675          423            1         6024          428
+----------------------------- End of distribution ----------------------------
+node value solute-solute solute-water  water-water     Q-solute      Q-water       #Shake       #Atoms   #Molecules
+     total           675          675          423          675          423            1         6024          428
+----------------------------- End of distribution ----------------------------
+node value solute-solute solute-water  water-water     Q-solute      Q-water       #Shake       #Atoms   #Molecules
+     total           675          675          423          675          423            1         6024          428
+----------------------------- End of distribution ----------------------------
+node value solute-solute solute-water  water-water     Q-solute      Q-water       #Shake       #Atoms   #Molecules
+     total           675          675          423          675          423            1         6024          428
+----------------------------- End of distribution ----------------------------
+
+Initial System total temperatures are : Ttot =      0.10 Tfree =      0.10
+Solute               temperatures are : Ttot =      0.10 Tfree =      0.10
+Solvent              temperatures are : Ttot =      0.10 Tfree =      0.10
+
+------------------------ Nonbonded pair list generation -----------------------
+
+Initial System total temperatures are : Ttot =      0.10 Tfree =      0.10
+Solute               temperatures are : Ttot =      0.10 Tfree =      0.10
+Solvent              temperatures are : Ttot =      0.10 Tfree =      0.10
+
+------------------------ Nonbonded pair list generation -----------------------
+
+Initial System total temperatures are : Ttot =      0.10 Tfree =      0.10
+Solute               temperatures are : Ttot =      0.10 Tfree =      0.10
+Solvent              temperatures are : Ttot =      0.10 Tfree =      0.10
+
+------------------------ Nonbonded pair list generation -----------------------
+
+Initial System total temperatures are : Ttot =      0.10 Tfree =      0.10
+Solute               temperatures are : Ttot =      0.10 Tfree =      0.10
+Solvent              temperatures are : Ttot =      0.10 Tfree =      0.10
+
+------------------------ Nonbonded pair list generation -----------------------
+
+Initial System total temperatures are : Ttot =      0.10 Tfree =      0.10
+Solute               temperatures are : Ttot =      0.10 Tfree =      0.10
+Solvent              temperatures are : Ttot =      0.10 Tfree =      0.10
+
+------------------------ Nonbonded pair list generation -----------------------
+
+Initial System total temperatures are : Ttot =      0.10 Tfree =      0.10
+Solute               temperatures are : Ttot =      0.10 Tfree =      0.10
+Solvent              temperatures are : Ttot =      0.10 Tfree =      0.10
+
+------------------------ Nonbonded pair list generation -----------------------
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 388976 RUNNING AT P-0515
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions

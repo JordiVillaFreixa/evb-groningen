@@ -1,7 +1,7 @@
 # Generated with QTools, version 0.7.0
-# Date: Tue Dec 19 15:02:31 2023
-# CWD: /home3/p315462/Project/evb_1/02-relax3/02-relax2
-# Cmdline: /home3/p315462/bin/qtools/qscripts-cli/q_genrelax.py ./genrelax.proc --top ../../01_preparation3/01_preparation/RRDiol.top --pdb ../../01_preparation3/01_preparation/RRDiol.pdb --fep ../../01_preparation3/01_preparation/fep/RRD_Diol.fep --rs ./run_relax_q.sh --outdir relax_001
+# Date: Wed Jan  3 18:36:19 2024
+# CWD: /home/jordivilla/GitHub/Treball/evb-groningen/02-relax
+# Cmdline: /home/jordivilla/GitHub/others/qtools/qscripts-cli/q_genrelax.py ./genrelax.proc --top ../01-preparation/RRDiol/RRDiol.top --pdb ../01-preparation/RRDiol/RRDiol.pdb --fep ../01-preparation/fep/RRD_Diol.fep --rs ./run_relax_q.sh --outdir relax_001
 [md]
 steps                                           200
 random_seed                             98457654321
@@ -13,9 +13,6 @@ lrf                                              on
 shake_hydrogens                                 off
 
 [cut-offs]
-solute_solute     7
-solvent_solvent 7
-solute_solvent                           7
 q_atom                                           99
 
 [intervals]
