@@ -1,0 +1,33 @@
+# q atom (q)                     PDB ID            LIB ID (resname.name)
+# or neighbour (n)?             (resid.name)       STATE 1         STATE 2
+q                                1.O99             STO.O99         RRD.O99
+q                                1.C98             STO.C98         RRD.C98
+q                                1.C96             STO.C96         RRD.C96
+q                                1.C1              STO.C1          RRD.C1
+q                                1.C2              STO.C2          RRD.C2
+q                                1.C3              STO.C3          RRD.C3
+q                                1.C4              STO.C4          RRD.C4
+q                                1.C5              STO.C5          RRD.C5
+q                                1.C99             STO.C99         RRD.C99
+q                                1.C97             STO.C97         RRD.C97
+q                                1.C10             STO.C10         RRD.C10
+q                                1.C11             STO.C11         RRD.C11
+q                                1.C12             STO.C12         RRD.C12
+q                                1.C13             STO.C13         RRD.C13
+q                                1.C14             STO.C14         RRD.C14
+q                                1.H98             STO.H98         RRD.H98
+q                                1.H1              STO.H1          RR.H1
+q                                1.H2              STO.H2          RRD.H2
+q                                1.H3              STO.H3          RRD.H3
+q                                1.H4              STO.H4          RRD.H4
+q                                1.H5              STO.H5          RRD.H5
+q                                1.H99             STO.H99         RRD.H99
+q                                1.H10             STO.H10         RRD.H10
+q                                1.H11             STO.H11         RRD.H11
+q                                1.H12             STO.H12         RRD.H12
+q                                1.H13             STO.H13         RRD.H13
+q                                1.H14             STO.H14         RRD.H14
+q                                2.H89             ASP.H           RRD.H89
+q                                2.O88             HO2.O           RRD.O88
+q                                2.H88             HO2.1H          RRD.H88
+
