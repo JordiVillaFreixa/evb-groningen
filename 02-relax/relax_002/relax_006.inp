@@ -1,5 +1,5 @@
 # Generated with QTools, version 0.7.0
-# Date: Wed Jan  3 18:36:20 2024
+# Date: Thu Jan  4 12:50:34 2024
 # CWD: /home/jordivilla/GitHub/Treball/evb-groningen/02-relax
 # Cmdline: /home/jordivilla/GitHub/others/qtools/qscripts-cli/q_genrelax.py ./genrelax.proc --top ../01-preparation/RRDiol/RRDiol.top --pdb ../01-preparation/RRDiol/RRDiol.pdb --fep ../01-preparation/fep/RRD_Diol.fep --rs ./run_relax_q.sh --outdir relax_002
 [md]

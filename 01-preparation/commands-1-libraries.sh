@@ -18,3 +18,4 @@ $SCHRODINGER/utilities/ffld_server  -imae $DIR/SSD_Product.mae -version 14  -pri
 q_ffld2q.py -o $DIR/SSD_Product $DIR/SSD_Product.ffld $DIR/SS_product_afterQMoptimization.pdb
 
 #Manually Add the RESPcharges into the various Library files created
+

@@ -1,1 +1,1 @@
-Qprep6 prep2.inp
+Qprep6 prep2.inp > prep2.log

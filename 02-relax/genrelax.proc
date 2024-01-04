@@ -5,15 +5,20 @@ stepsize                   1
 temperature              300
 bath_coupling            100  
 lrf                       on
+thermostat berendsen
 
 [cut-offs]
-q_atom                    99
+q_atom                    10
+lrf 10
+solute_solute 10
+solvent_solvent 10
+solute_solvent 10
 
 [lambdas]
 0.90  0.10
 
 [intervals]
-non_bond               30
+non_bond               10
 output                 100
 trajectory             100
 
