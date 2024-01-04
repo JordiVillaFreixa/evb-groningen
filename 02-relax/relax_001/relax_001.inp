@@ -9,7 +9,7 @@ temperature                                     0.1
 stepsize                                          1
 bath_coupling                                     1
 initial_temperature                             0.1
-lrf                                              off
+lrf                                              on
 shake_hydrogens                                 off
 thermostat                                berendsen
 
